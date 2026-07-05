@@ -1,0 +1,961 @@
+content,score,label,clean_text
+kadang lancar kadang error tergantung jaringan banget,3,netral,kadang lancar kadang error gantung jaring banget
+driver membatalkan pesanan seenaknya sangat kecewa ya,1,negatif,driver batal pesan enak sangat kecewa
+terima kasih gojek sangat membantu mobilitas saya ya,5,positif,terima kasih gojek sangat bantu mobilitas ya
+kadang lancar kadang error tergantung jaringan deh,3,netral,kadang lancar kadang error gantung jaring deh
+fiturnya standar sama seperti aplikasi lain sih,3,netral,fiturnya standar sama aplikasi sih
+aplikasi gojek sangat membantu dan cepat ya,5,positif,aplikasi gojek sangat bantu cepat
+aplikasi gojek sangat membantu dan cepat ya,5,positif,aplikasi gojek sangat bantu cepat
+promo dan diskon nya banyak sangat menguntungkan deh,5,positif,promo diskon nya banyak sangat untung deh
+fitur gopay memudahkan transaksi sehari hari nih,5,positif,fitur gopay mudah transaksi hari hari nih
+kadang lancar kadang error tergantung jaringan nih,3,netral,kadang lancar kadang error gantung jaring nih
+tampilan aplikasi membingungkan setelah update sih,2,negatif,tampil aplikasi bingung update sih
+terima kasih gojek sangat membantu mobilitas saya sih,5,positif,terima kasih gojek sangat bantu mobilitas sih
+"driver ramah dan tepat waktu, mantap nih",5,positif,driver ramah tepat waktu mantap nih
+cukup membantu meski masih ada kekurangan sih,3,netral,cukup bantu meski ada kurang sih
+driver membatalkan pesanan seenaknya sangat kecewa deh,1,negatif,driver batal pesan enak sangat kecewa deh
+GPS tidak akurat driver nyasar terus,2,negatif,gps akurat driver nyasar terus
+update terbaru semakin lancar dan responsif,5,positif,update baru makin lancar responsif
+GPS tidak akurat driver nyasar terus deh,2,negatif,gps akurat driver nyasar terus deh
+kadang puas kadang kecewa tergantung driver sih,3,netral,kadang puas kadang kecewa gantung driver sih
+aplikasi oke tapi harga kadang mahal deh,3,netral,aplikasi oke harga kadang mahal deh
+cukup membantu meski masih ada kekurangan,3,netral,cukup bantu meski ada kurang
+aplikasi gojek sangat membantu dan cepat sih,5,positif,aplikasi gojek sangat bantu cepat sih
+kadang lancar kadang error tergantung jaringan nih,3,netral,kadang lancar kadang error gantung jaring nih
+terima kasih gojek sangat membantu mobilitas saya nih,5,positif,terima kasih gojek sangat bantu mobilitas nih
+cukup membantu meski masih ada kekurangan nih,3,netral,cukup bantu meski ada kurang nih
+pelayanan driver sopan dan profesional deh,5,positif,layan driver sopan profesional deh
+pelayanan driver sopan dan profesional ya,4,positif,layan driver sopan profesional
+pembayaran gopay sering gagal saat checkout banget,2,negatif,bayar gopay sering gagal checkout banget
+kadang lancar kadang error tergantung jaringan sih,3,netral,kadang lancar kadang error gantung jaring sih
+promo dan diskon nya banyak sangat menguntungkan banget,4,positif,promo diskon nya banyak sangat untung banget
+pembayaran gopay sering gagal saat checkout banget,2,negatif,bayar gopay sering gagal checkout banget
+update terbaru semakin lancar dan responsif deh,4,positif,update baru makin lancar responsif deh
+aplikasi sering error dan force close nih,1,negatif,aplikasi sering error force close nih
+terima kasih gojek sangat membantu mobilitas saya sih,4,positif,terima kasih gojek sangat bantu mobilitas sih
+perlu banyak perbaikan tapi masih bisa dipakai nih,3,netral,perlu banyak baik masih pakai nih
+lumayan untuk dipakai sehari hari banget,3,netral,lumayan pakai hari hari banget
+"driver ramah dan tepat waktu, mantap banget",5,positif,driver ramah tepat waktu mantap banget
+sangat recommended aplikasi ojek online terbaik deh,4,positif,sangat recommended aplikasi ojek online baik deh
+sangat recommended aplikasi ojek online terbaik banget,5,positif,sangat recommended aplikasi ojek online baik banget
+aplikasi biasa saja tidak ada yang istimewa sih,3,netral,aplikasi biasa tidak yang istimewa sih
+sangat kecewa dengan pelayanan akhir akhir ini sih,2,negatif,sangat kecewa layan akhir akhir sih
+sangat recommended aplikasi ojek online terbaik banget,4,positif,sangat recommended aplikasi ojek online baik banget
+perlu banyak perbaikan tapi masih bisa dipakai,3,netral,perlu banyak baik masih pakai
+lumayan untuk dipakai sehari hari ya,3,netral,lumayan pakai hari hari
+sangat recommended aplikasi ojek online terbaik sih,4,positif,sangat recommended aplikasi ojek online baik sih
+kadang lancar kadang error tergantung jaringan nih,3,netral,kadang lancar kadang error gantung jaring nih
+puas dengan layanan gofood pengiriman cepat ya,5,positif,puas layan gofood kirim cepat
+"driver ramah dan tepat waktu, mantap sih",5,positif,driver ramah tepat waktu mantap sih
+aplikasi oke tapi harga kadang mahal nih,3,netral,aplikasi oke harga kadang mahal nih
+aplikasi biasa saja tidak ada yang istimewa banget,3,netral,aplikasi biasa tidak yang istimewa banget
+aplikasi biasa saja tidak ada yang istimewa deh,3,netral,aplikasi biasa tidak yang istimewa deh
+aplikasi biasa saja tidak ada yang istimewa deh,3,netral,aplikasi biasa tidak yang istimewa deh
+pelayanan driver sopan dan profesional deh,4,positif,layan driver sopan profesional deh
+fitur gopay memudahkan transaksi sehari hari nih,4,positif,fitur gopay mudah transaksi hari hari nih
+aplikasi sering error dan force close banget,2,negatif,aplikasi sering error force close banget
+sangat kecewa dengan pelayanan akhir akhir ini ya,2,negatif,sangat kecewa layan akhir akhir ya
+fitur gopay memudahkan transaksi sehari hari deh,5,positif,fitur gopay mudah transaksi hari hari deh
+perlu banyak perbaikan tapi masih bisa dipakai sih,3,netral,perlu banyak baik masih pakai sih
+aplikasi oke tapi harga kadang mahal ya,3,netral,aplikasi oke harga kadang mahal
+"driver ramah dan tepat waktu, mantap ya",5,positif,driver ramah tepat waktu mantap
+"driver ramah dan tepat waktu, mantap sih",4,positif,driver ramah tepat waktu mantap sih
+aplikasi bagus tidak pernah error,5,positif,aplikasi bagus pernah error
+fiturnya standar sama seperti aplikasi lain banget,3,netral,fiturnya standar sama aplikasi banget
+sangat recommended aplikasi ojek online terbaik sih,5,positif,sangat recommended aplikasi ojek online baik sih
+aplikasi bagus tidak pernah error banget,5,positif,aplikasi bagus pernah error banget
+GPS tidak akurat driver nyasar terus banget,1,negatif,gps akurat driver nyasar terus banget
+update terbaru semakin lancar dan responsif nih,4,positif,update baru makin lancar responsif nih
+so so masih perlu banyak improvement nih,3,netral,so so perlu banyak improvement nih
+harga tiba tiba naik tanpa alasan jelas ya,2,negatif,harga tiba tiba naik alas jelas
+pembayaran gopay sering gagal saat checkout ya,1,negatif,bayar gopay sering gagal checkout
+perlu banyak perbaikan tapi masih bisa dipakai sih,3,netral,perlu banyak baik masih pakai sih
+kadang lancar kadang error tergantung jaringan nih,3,netral,kadang lancar kadang error gantung jaring nih
+pembayaran gopay sering gagal saat checkout deh,2,negatif,bayar gopay sering gagal checkout deh
+sangat recommended aplikasi ojek online terbaik nih,4,positif,sangat recommended aplikasi ojek online baik nih
+so so masih perlu banyak improvement,3,netral,so so perlu banyak improvement
+harga tiba tiba naik tanpa alasan jelas nih,1,negatif,harga tiba tiba naik alas jelas nih
+aplikasi gojek sangat membantu dan cepat banget,5,positif,aplikasi gojek sangat bantu cepat banget
+aplikasi biasa saja tidak ada yang istimewa deh,3,netral,aplikasi biasa tidak yang istimewa deh
+aplikasi bagus tidak pernah error banget,5,positif,aplikasi bagus pernah error banget
+kadang puas kadang kecewa tergantung driver deh,3,netral,kadang puas kadang kecewa gantung driver deh
+"driver ramah dan tepat waktu, mantap",5,positif,driver ramah tepat waktu mantap
+susah dapat driver padahal jam sibuk deh,1,negatif,susah driver padahal jam sibuk deh
+susah dapat driver padahal jam sibuk nih,2,negatif,susah driver padahal jam sibuk nih
+sangat recommended aplikasi ojek online terbaik,5,positif,sangat recommended aplikasi ojek online baik
+GPS tidak akurat driver nyasar terus ya,1,negatif,gps akurat driver nyasar terus
+driver membatalkan pesanan seenaknya sangat kecewa ya,2,negatif,driver batal pesan enak sangat kecewa
+lumayan untuk dipakai sehari hari,3,netral,lumayan pakai hari hari
+kadang lancar kadang error tergantung jaringan deh,3,netral,kadang lancar kadang error gantung jaring deh
+promo dan diskon nya banyak sangat menguntungkan sih,4,positif,promo diskon nya banyak sangat untung sih
+GPS tidak akurat driver nyasar terus banget,1,negatif,gps akurat driver nyasar terus banget
+harga tiba tiba naik tanpa alasan jelas,2,negatif,harga tiba tiba naik alas jelas
+aplikasi oke tapi harga kadang mahal nih,3,netral,aplikasi oke harga kadang mahal nih
+aplikasi lemot dan sering nge-lag sih,2,negatif,aplikasi lot sering nge lag sih
+aplikasi oke tapi harga kadang mahal nih,3,netral,aplikasi oke harga kadang mahal nih
+promo dan diskon nya banyak sangat menguntungkan banget,4,positif,promo diskon nya banyak sangat untung banget
+GPS tidak akurat driver nyasar terus banget,2,negatif,gps akurat driver nyasar terus banget
+lumayan untuk dipakai sehari hari nih,3,netral,lumayan pakai hari hari nih
+pelayanan driver sopan dan profesional sih,4,positif,layan driver sopan profesional sih
+driver membatalkan pesanan seenaknya sangat kecewa sih,1,negatif,driver batal pesan enak sangat kecewa sih
+pelayanan driver sopan dan profesional,4,positif,layan driver sopan profesional
+aplikasi sering error dan force close ya,1,negatif,aplikasi sering error force close
+update terbaru semakin lancar dan responsif nih,4,positif,update baru makin lancar responsif nih
+cukup membantu meski masih ada kekurangan,3,netral,cukup bantu meski ada kurang
+promo dan diskon nya banyak sangat menguntungkan,5,positif,promo diskon nya banyak sangat untung
+sangat kecewa dengan pelayanan akhir akhir ini,2,negatif,sangat kecewa layan akhir akhir
+pembayaran gopay sering gagal saat checkout banget,1,negatif,bayar gopay sering gagal checkout banget
+aplikasi bagus tidak pernah error ya,4,positif,aplikasi bagus pernah error
+aplikasi sering error dan force close,1,negatif,aplikasi sering error force close
+aplikasi gojek sangat membantu dan cepat ya,5,positif,aplikasi gojek sangat bantu cepat
+update terbaru semakin lancar dan responsif sih,4,positif,update baru makin lancar responsif sih
+pelayanan driver sopan dan profesional sih,5,positif,layan driver sopan profesional sih
+pelayanan driver sopan dan profesional banget,4,positif,layan driver sopan profesional banget
+susah dapat driver padahal jam sibuk ya,2,negatif,susah driver padahal jam sibuk
+fiturnya standar sama seperti aplikasi lain,3,netral,fiturnya standar sama aplikasi
+"driver ramah dan tepat waktu, mantap ya",5,positif,driver ramah tepat waktu mantap
+pembayaran gopay sering gagal saat checkout ya,1,negatif,bayar gopay sering gagal checkout
+biasa saja tidak buruk tidak juga bagus nih,3,netral,biasa buruk tidak juga bagus nih
+tampilan aplikasi membingungkan setelah update nih,1,negatif,tampil aplikasi bingung update nih
+aplikasi biasa saja tidak ada yang istimewa nih,3,netral,aplikasi biasa tidak yang istimewa nih
+biasa saja tidak buruk tidak juga bagus ya,3,netral,biasa buruk tidak juga bagus
+pembayaran gopay sering gagal saat checkout banget,1,negatif,bayar gopay sering gagal checkout banget
+fiturnya standar sama seperti aplikasi lain deh,3,netral,fiturnya standar sama aplikasi deh
+promo dan diskon nya banyak sangat menguntungkan,4,positif,promo diskon nya banyak sangat untung
+cukup membantu meski masih ada kekurangan deh,3,netral,cukup bantu meski ada kurang deh
+kadang puas kadang kecewa tergantung driver ya,3,netral,kadang puas kadang kecewa gantung driver
+pembayaran gopay sering gagal saat checkout,1,negatif,bayar gopay sering gagal checkout
+so so masih perlu banyak improvement ya,3,netral,so so perlu banyak improvement
+sangat recommended aplikasi ojek online terbaik deh,5,positif,sangat recommended aplikasi ojek online baik deh
+kadang lancar kadang error tergantung jaringan sih,3,netral,kadang lancar kadang error gantung jaring sih
+pelayanan driver sopan dan profesional nih,4,positif,layan driver sopan profesional nih
+customer service lambat merespon keluhan,1,negatif,customer service lambat merespon keluh
+pembayaran gopay sering gagal saat checkout deh,1,negatif,bayar gopay sering gagal checkout deh
+perlu banyak perbaikan tapi masih bisa dipakai,3,netral,perlu banyak baik masih pakai
+customer service lambat merespon keluhan sih,1,negatif,customer service lambat merespon keluh sih
+perlu banyak perbaikan tapi masih bisa dipakai,3,netral,perlu banyak baik masih pakai
+fitur gopay memudahkan transaksi sehari hari sih,4,positif,fitur gopay mudah transaksi hari hari sih
+pelayanan driver sopan dan profesional nih,4,positif,layan driver sopan profesional nih
+customer service lambat merespon keluhan ya,2,negatif,customer service lambat merespon keluh
+perlu banyak perbaikan tapi masih bisa dipakai deh,3,netral,perlu banyak baik masih pakai deh
+update terbaru semakin lancar dan responsif,4,positif,update baru makin lancar responsif
+sangat recommended aplikasi ojek online terbaik,5,positif,sangat recommended aplikasi ojek online baik
+pembayaran gopay sering gagal saat checkout sih,2,negatif,bayar gopay sering gagal checkout sih
+puas dengan layanan gofood pengiriman cepat banget,4,positif,puas layan gofood kirim cepat banget
+fitur gopay memudahkan transaksi sehari hari sih,5,positif,fitur gopay mudah transaksi hari hari sih
+aplikasi oke tapi harga kadang mahal banget,3,netral,aplikasi oke harga kadang mahal banget
+customer service lambat merespon keluhan,1,negatif,customer service lambat merespon keluh
+fitur gopay memudahkan transaksi sehari hari,5,positif,fitur gopay mudah transaksi hari hari
+aplikasi sering error dan force close banget,2,negatif,aplikasi sering error force close banget
+sangat recommended aplikasi ojek online terbaik sih,5,positif,sangat recommended aplikasi ojek online baik sih
+aplikasi sering error dan force close deh,2,negatif,aplikasi sering error force close deh
+GPS tidak akurat driver nyasar terus nih,2,negatif,gps akurat driver nyasar terus nih
+biasa saja tidak buruk tidak juga bagus deh,3,netral,biasa buruk tidak juga bagus deh
+kadang lancar kadang error tergantung jaringan deh,3,netral,kadang lancar kadang error gantung jaring deh
+kadang puas kadang kecewa tergantung driver banget,3,netral,kadang puas kadang kecewa gantung driver banget
+pembayaran gopay sering gagal saat checkout nih,2,negatif,bayar gopay sering gagal checkout nih
+tampilan aplikasi membingungkan setelah update,1,negatif,tampil aplikasi bingung update
+kadang puas kadang kecewa tergantung driver banget,3,netral,kadang puas kadang kecewa gantung driver banget
+driver membatalkan pesanan seenaknya sangat kecewa nih,1,negatif,driver batal pesan enak sangat kecewa nih
+kadang puas kadang kecewa tergantung driver banget,3,netral,kadang puas kadang kecewa gantung driver banget
+promo dan diskon nya banyak sangat menguntungkan deh,4,positif,promo diskon nya banyak sangat untung deh
+perlu banyak perbaikan tapi masih bisa dipakai banget,3,netral,perlu banyak baik masih pakai banget
+so so masih perlu banyak improvement deh,3,netral,so so perlu banyak improvement deh
+driver membatalkan pesanan seenaknya sangat kecewa ya,2,negatif,driver batal pesan enak sangat kecewa
+customer service lambat merespon keluhan nih,1,negatif,customer service lambat merespon keluh nih
+susah dapat driver padahal jam sibuk nih,1,negatif,susah driver padahal jam sibuk nih
+driver membatalkan pesanan seenaknya sangat kecewa sih,2,negatif,driver batal pesan enak sangat kecewa sih
+aplikasi sering error dan force close deh,1,negatif,aplikasi sering error force close deh
+aplikasi bagus tidak pernah error sih,4,positif,aplikasi bagus pernah error sih
+update terbaru semakin lancar dan responsif banget,4,positif,update baru makin lancar responsif banget
+aplikasi gojek sangat membantu dan cepat sih,5,positif,aplikasi gojek sangat bantu cepat sih
+aplikasi gojek sangat membantu dan cepat ya,5,positif,aplikasi gojek sangat bantu cepat
+so so masih perlu banyak improvement nih,3,netral,so so perlu banyak improvement nih
+tampilan aplikasi membingungkan setelah update sih,1,negatif,tampil aplikasi bingung update sih
+update terbaru semakin lancar dan responsif sih,5,positif,update baru makin lancar responsif sih
+pelayanan driver sopan dan profesional,4,positif,layan driver sopan profesional
+promo dan diskon nya banyak sangat menguntungkan,4,positif,promo diskon nya banyak sangat untung
+kadang lancar kadang error tergantung jaringan banget,3,netral,kadang lancar kadang error gantung jaring banget
+aplikasi gojek sangat membantu dan cepat,5,positif,aplikasi gojek sangat bantu cepat
+update terbaru semakin lancar dan responsif banget,5,positif,update baru makin lancar responsif banget
+biasa saja tidak buruk tidak juga bagus ya,3,netral,biasa buruk tidak juga bagus
+"driver ramah dan tepat waktu, mantap deh",4,positif,driver ramah tepat waktu mantap deh
+harga tiba tiba naik tanpa alasan jelas deh,1,negatif,harga tiba tiba naik alas jelas deh
+kadang puas kadang kecewa tergantung driver deh,3,netral,kadang puas kadang kecewa gantung driver deh
+biasa saja tidak buruk tidak juga bagus banget,3,netral,biasa buruk tidak juga bagus banget
+tampilan aplikasi membingungkan setelah update sih,1,negatif,tampil aplikasi bingung update sih
+pelayanan driver sopan dan profesional banget,4,positif,layan driver sopan profesional banget
+fiturnya standar sama seperti aplikasi lain nih,3,netral,fiturnya standar sama aplikasi nih
+customer service lambat merespon keluhan deh,1,negatif,customer service lambat merespon keluh deh
+kadang lancar kadang error tergantung jaringan banget,3,netral,kadang lancar kadang error gantung jaring banget
+update terbaru semakin lancar dan responsif ya,4,positif,update baru makin lancar responsif
+aplikasi bagus tidak pernah error ya,5,positif,aplikasi bagus pernah error
+aplikasi oke tapi harga kadang mahal deh,3,netral,aplikasi oke harga kadang mahal deh
+aplikasi bagus tidak pernah error sih,5,positif,aplikasi bagus pernah error sih
+harga tiba tiba naik tanpa alasan jelas deh,2,negatif,harga tiba tiba naik alas jelas deh
+pelayanan driver sopan dan profesional deh,5,positif,layan driver sopan profesional deh
+aplikasi sering error dan force close,1,negatif,aplikasi sering error force close
+customer service lambat merespon keluhan ya,2,negatif,customer service lambat merespon keluh
+aplikasi bagus tidak pernah error deh,5,positif,aplikasi bagus pernah error deh
+sangat recommended aplikasi ojek online terbaik,5,positif,sangat recommended aplikasi ojek online baik
+kadang puas kadang kecewa tergantung driver deh,3,netral,kadang puas kadang kecewa gantung driver deh
+aplikasi gojek sangat membantu dan cepat ya,4,positif,aplikasi gojek sangat bantu cepat
+aplikasi gojek sangat membantu dan cepat sih,5,positif,aplikasi gojek sangat bantu cepat sih
+susah dapat driver padahal jam sibuk sih,1,negatif,susah driver padahal jam sibuk sih
+pelayanan driver sopan dan profesional nih,4,positif,layan driver sopan profesional nih
+aplikasi bagus tidak pernah error,5,positif,aplikasi bagus pernah error
+"driver ramah dan tepat waktu, mantap",4,positif,driver ramah tepat waktu mantap
+GPS tidak akurat driver nyasar terus ya,2,negatif,gps akurat driver nyasar terus
+harga tiba tiba naik tanpa alasan jelas ya,2,negatif,harga tiba tiba naik alas jelas
+promo dan diskon nya banyak sangat menguntungkan banget,4,positif,promo diskon nya banyak sangat untung banget
+pelayanan driver sopan dan profesional deh,5,positif,layan driver sopan profesional deh
+puas dengan layanan gofood pengiriman cepat ya,4,positif,puas layan gofood kirim cepat
+pembayaran gopay sering gagal saat checkout nih,2,negatif,bayar gopay sering gagal checkout nih
+sangat recommended aplikasi ojek online terbaik deh,5,positif,sangat recommended aplikasi ojek online baik deh
+promo dan diskon nya banyak sangat menguntungkan sih,4,positif,promo diskon nya banyak sangat untung sih
+pelayanan driver sopan dan profesional nih,5,positif,layan driver sopan profesional nih
+promo dan diskon nya banyak sangat menguntungkan nih,4,positif,promo diskon nya banyak sangat untung nih
+fiturnya standar sama seperti aplikasi lain ya,3,netral,fiturnya standar sama aplikasi ya
+fiturnya standar sama seperti aplikasi lain,3,netral,fiturnya standar sama aplikasi
+pembayaran gopay sering gagal saat checkout nih,2,negatif,bayar gopay sering gagal checkout nih
+biasa saja tidak buruk tidak juga bagus ya,3,netral,biasa buruk tidak juga bagus
+fitur gopay memudahkan transaksi sehari hari nih,5,positif,fitur gopay mudah transaksi hari hari nih
+customer service lambat merespon keluhan ya,1,negatif,customer service lambat merespon keluh
+puas dengan layanan gofood pengiriman cepat nih,5,positif,puas layan gofood kirim cepat nih
+aplikasi bagus tidak pernah error,5,positif,aplikasi bagus pernah error
+cukup membantu meski masih ada kekurangan banget,3,netral,cukup bantu meski ada kurang banget
+lumayan untuk dipakai sehari hari deh,3,netral,lumayan pakai hari hari deh
+GPS tidak akurat driver nyasar terus nih,1,negatif,gps akurat driver nyasar terus nih
+aplikasi lemot dan sering nge-lag deh,2,negatif,aplikasi lot sering nge lag deh
+fiturnya standar sama seperti aplikasi lain ya,3,netral,fiturnya standar sama aplikasi ya
+puas dengan layanan gofood pengiriman cepat,4,positif,puas layan gofood kirim cepat
+puas dengan layanan gofood pengiriman cepat deh,4,positif,puas layan gofood kirim cepat deh
+update terbaru semakin lancar dan responsif sih,4,positif,update baru makin lancar responsif sih
+aplikasi gojek sangat membantu dan cepat sih,4,positif,aplikasi gojek sangat bantu cepat sih
+update terbaru semakin lancar dan responsif ya,5,positif,update baru makin lancar responsif
+GPS tidak akurat driver nyasar terus ya,2,negatif,gps akurat driver nyasar terus
+driver membatalkan pesanan seenaknya sangat kecewa,2,negatif,driver batal pesan enak sangat kecewa
+tampilan aplikasi membingungkan setelah update deh,1,negatif,tampil aplikasi bingung update deh
+pembayaran gopay sering gagal saat checkout,2,negatif,bayar gopay sering gagal checkout
+aplikasi gojek sangat membantu dan cepat ya,5,positif,aplikasi gojek sangat bantu cepat
+terima kasih gojek sangat membantu mobilitas saya deh,4,positif,terima kasih gojek sangat bantu mobilitas deh
+aplikasi bagus tidak pernah error sih,4,positif,aplikasi bagus pernah error sih
+pelayanan driver sopan dan profesional,4,positif,layan driver sopan profesional
+terima kasih gojek sangat membantu mobilitas saya deh,5,positif,terima kasih gojek sangat bantu mobilitas deh
+aplikasi sering error dan force close ya,1,negatif,aplikasi sering error force close
+terima kasih gojek sangat membantu mobilitas saya ya,4,positif,terima kasih gojek sangat bantu mobilitas ya
+biasa saja tidak buruk tidak juga bagus ya,3,netral,biasa buruk tidak juga bagus
+lumayan untuk dipakai sehari hari ya,3,netral,lumayan pakai hari hari
+aplikasi bagus tidak pernah error deh,4,positif,aplikasi bagus pernah error deh
+aplikasi sering error dan force close nih,1,negatif,aplikasi sering error force close nih
+"driver ramah dan tepat waktu, mantap",5,positif,driver ramah tepat waktu mantap
+aplikasi bagus tidak pernah error banget,5,positif,aplikasi bagus pernah error banget
+lumayan untuk dipakai sehari hari deh,3,netral,lumayan pakai hari hari deh
+tampilan aplikasi membingungkan setelah update ya,2,negatif,tampil aplikasi bingung update
+aplikasi gojek sangat membantu dan cepat sih,4,positif,aplikasi gojek sangat bantu cepat sih
+biasa saja tidak buruk tidak juga bagus sih,3,netral,biasa buruk tidak juga bagus sih
+"driver ramah dan tepat waktu, mantap sih",4,positif,driver ramah tepat waktu mantap sih
+fiturnya standar sama seperti aplikasi lain ya,3,netral,fiturnya standar sama aplikasi ya
+sangat recommended aplikasi ojek online terbaik ya,4,positif,sangat recommended aplikasi ojek online baik
+cukup membantu meski masih ada kekurangan sih,3,netral,cukup bantu meski ada kurang sih
+fiturnya standar sama seperti aplikasi lain deh,3,netral,fiturnya standar sama aplikasi deh
+perlu banyak perbaikan tapi masih bisa dipakai banget,3,netral,perlu banyak baik masih pakai banget
+sangat recommended aplikasi ojek online terbaik nih,4,positif,sangat recommended aplikasi ojek online baik nih
+lumayan untuk dipakai sehari hari banget,3,netral,lumayan pakai hari hari banget
+pelayanan driver sopan dan profesional,4,positif,layan driver sopan profesional
+aplikasi biasa saja tidak ada yang istimewa deh,3,netral,aplikasi biasa tidak yang istimewa deh
+aplikasi lemot dan sering nge-lag ya,2,negatif,aplikasi lot sering nge lag
+aplikasi oke tapi harga kadang mahal banget,3,netral,aplikasi oke harga kadang mahal banget
+fitur gopay memudahkan transaksi sehari hari banget,4,positif,fitur gopay mudah transaksi hari hari banget
+tampilan aplikasi membingungkan setelah update deh,2,negatif,tampil aplikasi bingung update deh
+cukup membantu meski masih ada kekurangan,3,netral,cukup bantu meski ada kurang
+aplikasi gojek sangat membantu dan cepat ya,5,positif,aplikasi gojek sangat bantu cepat
+terima kasih gojek sangat membantu mobilitas saya banget,5,positif,terima kasih gojek sangat bantu mobilitas banget
+sangat recommended aplikasi ojek online terbaik ya,5,positif,sangat recommended aplikasi ojek online baik
+customer service lambat merespon keluhan sih,1,negatif,customer service lambat merespon keluh sih
+biasa saja tidak buruk tidak juga bagus sih,3,netral,biasa buruk tidak juga bagus sih
+aplikasi sering error dan force close banget,2,negatif,aplikasi sering error force close banget
+terima kasih gojek sangat membantu mobilitas saya banget,5,positif,terima kasih gojek sangat bantu mobilitas banget
+aplikasi oke tapi harga kadang mahal sih,3,netral,aplikasi oke harga kadang mahal sih
+driver membatalkan pesanan seenaknya sangat kecewa nih,1,negatif,driver batal pesan enak sangat kecewa nih
+kadang puas kadang kecewa tergantung driver nih,3,netral,kadang puas kadang kecewa gantung driver nih
+susah dapat driver padahal jam sibuk banget,2,negatif,susah driver padahal jam sibuk banget
+lumayan untuk dipakai sehari hari,3,netral,lumayan pakai hari hari
+aplikasi biasa saja tidak ada yang istimewa ya,3,netral,aplikasi biasa tidak yang istimewa
+aplikasi sering error dan force close,1,negatif,aplikasi sering error force close
+aplikasi oke tapi harga kadang mahal nih,3,netral,aplikasi oke harga kadang mahal nih
+pembayaran gopay sering gagal saat checkout deh,2,negatif,bayar gopay sering gagal checkout deh
+pembayaran gopay sering gagal saat checkout ya,2,negatif,bayar gopay sering gagal checkout
+so so masih perlu banyak improvement nih,3,netral,so so perlu banyak improvement nih
+fitur gopay memudahkan transaksi sehari hari ya,4,positif,fitur gopay mudah transaksi hari hari
+sangat recommended aplikasi ojek online terbaik sih,4,positif,sangat recommended aplikasi ojek online baik sih
+so so masih perlu banyak improvement ya,3,netral,so so perlu banyak improvement
+promo dan diskon nya banyak sangat menguntungkan ya,4,positif,promo diskon nya banyak sangat untung
+pelayanan driver sopan dan profesional nih,4,positif,layan driver sopan profesional nih
+aplikasi bagus tidak pernah error deh,5,positif,aplikasi bagus pernah error deh
+fitur gopay memudahkan transaksi sehari hari nih,4,positif,fitur gopay mudah transaksi hari hari nih
+lumayan untuk dipakai sehari hari ya,3,netral,lumayan pakai hari hari
+puas dengan layanan gofood pengiriman cepat,5,positif,puas layan gofood kirim cepat
+aplikasi lemot dan sering nge-lag nih,1,negatif,aplikasi lot sering nge lag nih
+update terbaru semakin lancar dan responsif banget,4,positif,update baru makin lancar responsif banget
+pelayanan driver sopan dan profesional sih,4,positif,layan driver sopan profesional sih
+customer service lambat merespon keluhan sih,1,negatif,customer service lambat merespon keluh sih
+tampilan aplikasi membingungkan setelah update sih,1,negatif,tampil aplikasi bingung update sih
+aplikasi bagus tidak pernah error deh,4,positif,aplikasi bagus pernah error deh
+promo dan diskon nya banyak sangat menguntungkan deh,4,positif,promo diskon nya banyak sangat untung deh
+aplikasi biasa saja tidak ada yang istimewa sih,3,netral,aplikasi biasa tidak yang istimewa sih
+GPS tidak akurat driver nyasar terus sih,1,negatif,gps akurat driver nyasar terus sih
+sangat recommended aplikasi ojek online terbaik deh,4,positif,sangat recommended aplikasi ojek online baik deh
+susah dapat driver padahal jam sibuk,1,negatif,susah driver padahal jam sibuk
+aplikasi sering error dan force close ya,2,negatif,aplikasi sering error force close
+tampilan aplikasi membingungkan setelah update sih,2,negatif,tampil aplikasi bingung update sih
+"driver ramah dan tepat waktu, mantap deh",4,positif,driver ramah tepat waktu mantap deh
+puas dengan layanan gofood pengiriman cepat ya,4,positif,puas layan gofood kirim cepat
+lumayan untuk dipakai sehari hari deh,3,netral,lumayan pakai hari hari deh
+kadang lancar kadang error tergantung jaringan deh,3,netral,kadang lancar kadang error gantung jaring deh
+so so masih perlu banyak improvement sih,3,netral,so so perlu banyak improvement sih
+update terbaru semakin lancar dan responsif sih,5,positif,update baru makin lancar responsif sih
+kadang lancar kadang error tergantung jaringan deh,3,netral,kadang lancar kadang error gantung jaring deh
+aplikasi gojek sangat membantu dan cepat sih,5,positif,aplikasi gojek sangat bantu cepat sih
+fitur gopay memudahkan transaksi sehari hari nih,5,positif,fitur gopay mudah transaksi hari hari nih
+so so masih perlu banyak improvement sih,3,netral,so so perlu banyak improvement sih
+sangat recommended aplikasi ojek online terbaik deh,5,positif,sangat recommended aplikasi ojek online baik deh
+terima kasih gojek sangat membantu mobilitas saya ya,5,positif,terima kasih gojek sangat bantu mobilitas ya
+"driver ramah dan tepat waktu, mantap nih",5,positif,driver ramah tepat waktu mantap nih
+sangat recommended aplikasi ojek online terbaik ya,5,positif,sangat recommended aplikasi ojek online baik
+fitur gopay memudahkan transaksi sehari hari nih,5,positif,fitur gopay mudah transaksi hari hari nih
+sangat recommended aplikasi ojek online terbaik,4,positif,sangat recommended aplikasi ojek online baik
+perlu banyak perbaikan tapi masih bisa dipakai ya,3,netral,perlu banyak baik masih pakai
+promo dan diskon nya banyak sangat menguntungkan banget,4,positif,promo diskon nya banyak sangat untung banget
+sangat recommended aplikasi ojek online terbaik nih,4,positif,sangat recommended aplikasi ojek online baik nih
+puas dengan layanan gofood pengiriman cepat,4,positif,puas layan gofood kirim cepat
+biasa saja tidak buruk tidak juga bagus sih,3,netral,biasa buruk tidak juga bagus sih
+update terbaru semakin lancar dan responsif nih,4,positif,update baru makin lancar responsif nih
+fitur gopay memudahkan transaksi sehari hari sih,5,positif,fitur gopay mudah transaksi hari hari sih
+aplikasi biasa saja tidak ada yang istimewa sih,3,netral,aplikasi biasa tidak yang istimewa sih
+aplikasi bagus tidak pernah error deh,4,positif,aplikasi bagus pernah error deh
+so so masih perlu banyak improvement,3,netral,so so perlu banyak improvement
+"driver ramah dan tepat waktu, mantap",4,positif,driver ramah tepat waktu mantap
+sangat recommended aplikasi ojek online terbaik banget,4,positif,sangat recommended aplikasi ojek online baik banget
+aplikasi bagus tidak pernah error banget,5,positif,aplikasi bagus pernah error banget
+fiturnya standar sama seperti aplikasi lain,3,netral,fiturnya standar sama aplikasi
+GPS tidak akurat driver nyasar terus nih,1,negatif,gps akurat driver nyasar terus nih
+aplikasi gojek sangat membantu dan cepat banget,5,positif,aplikasi gojek sangat bantu cepat banget
+kadang lancar kadang error tergantung jaringan,3,netral,kadang lancar kadang error gantung jaring
+GPS tidak akurat driver nyasar terus ya,1,negatif,gps akurat driver nyasar terus
+fitur gopay memudahkan transaksi sehari hari deh,4,positif,fitur gopay mudah transaksi hari hari deh
+terima kasih gojek sangat membantu mobilitas saya nih,5,positif,terima kasih gojek sangat bantu mobilitas nih
+so so masih perlu banyak improvement ya,3,netral,so so perlu banyak improvement
+update terbaru semakin lancar dan responsif sih,5,positif,update baru makin lancar responsif sih
+aplikasi bagus tidak pernah error,4,positif,aplikasi bagus pernah error
+aplikasi lemot dan sering nge-lag,2,negatif,aplikasi lot sering nge lag
+kadang puas kadang kecewa tergantung driver sih,3,netral,kadang puas kadang kecewa gantung driver sih
+"driver ramah dan tepat waktu, mantap banget",4,positif,driver ramah tepat waktu mantap banget
+perlu banyak perbaikan tapi masih bisa dipakai sih,3,netral,perlu banyak baik masih pakai sih
+aplikasi bagus tidak pernah error nih,4,positif,aplikasi bagus pernah error nih
+aplikasi gojek sangat membantu dan cepat banget,5,positif,aplikasi gojek sangat bantu cepat banget
+"driver ramah dan tepat waktu, mantap sih",5,positif,driver ramah tepat waktu mantap sih
+sangat kecewa dengan pelayanan akhir akhir ini banget,2,negatif,sangat kecewa layan akhir akhir banget
+puas dengan layanan gofood pengiriman cepat sih,5,positif,puas layan gofood kirim cepat sih
+so so masih perlu banyak improvement deh,3,netral,so so perlu banyak improvement deh
+sangat recommended aplikasi ojek online terbaik ya,5,positif,sangat recommended aplikasi ojek online baik
+sangat recommended aplikasi ojek online terbaik deh,4,positif,sangat recommended aplikasi ojek online baik deh
+customer service lambat merespon keluhan nih,2,negatif,customer service lambat merespon keluh nih
+driver membatalkan pesanan seenaknya sangat kecewa nih,2,negatif,driver batal pesan enak sangat kecewa nih
+terima kasih gojek sangat membantu mobilitas saya,5,positif,terima kasih gojek sangat bantu mobilitas
+biasa saja tidak buruk tidak juga bagus nih,3,netral,biasa buruk tidak juga bagus nih
+fiturnya standar sama seperti aplikasi lain banget,3,netral,fiturnya standar sama aplikasi banget
+perlu banyak perbaikan tapi masih bisa dipakai sih,3,netral,perlu banyak baik masih pakai sih
+cukup membantu meski masih ada kekurangan sih,3,netral,cukup bantu meski ada kurang sih
+pelayanan driver sopan dan profesional,5,positif,layan driver sopan profesional
+puas dengan layanan gofood pengiriman cepat,4,positif,puas layan gofood kirim cepat
+lumayan untuk dipakai sehari hari deh,3,netral,lumayan pakai hari hari deh
+biasa saja tidak buruk tidak juga bagus deh,3,netral,biasa buruk tidak juga bagus deh
+driver membatalkan pesanan seenaknya sangat kecewa deh,2,negatif,driver batal pesan enak sangat kecewa deh
+aplikasi bagus tidak pernah error,4,positif,aplikasi bagus pernah error
+sangat kecewa dengan pelayanan akhir akhir ini banget,2,negatif,sangat kecewa layan akhir akhir banget
+kadang lancar kadang error tergantung jaringan,3,netral,kadang lancar kadang error gantung jaring
+aplikasi lemot dan sering nge-lag banget,2,negatif,aplikasi lot sering nge lag banget
+susah dapat driver padahal jam sibuk deh,1,negatif,susah driver padahal jam sibuk deh
+sangat recommended aplikasi ojek online terbaik ya,5,positif,sangat recommended aplikasi ojek online baik
+perlu banyak perbaikan tapi masih bisa dipakai banget,3,netral,perlu banyak baik masih pakai banget
+aplikasi sering error dan force close ya,2,negatif,aplikasi sering error force close
+aplikasi lemot dan sering nge-lag banget,1,negatif,aplikasi lot sering nge lag banget
+pelayanan driver sopan dan profesional nih,4,positif,layan driver sopan profesional nih
+terima kasih gojek sangat membantu mobilitas saya ya,4,positif,terima kasih gojek sangat bantu mobilitas ya
+aplikasi gojek sangat membantu dan cepat sih,4,positif,aplikasi gojek sangat bantu cepat sih
+puas dengan layanan gofood pengiriman cepat deh,4,positif,puas layan gofood kirim cepat deh
+pelayanan driver sopan dan profesional banget,5,positif,layan driver sopan profesional banget
+pelayanan driver sopan dan profesional deh,5,positif,layan driver sopan profesional deh
+fitur gopay memudahkan transaksi sehari hari,4,positif,fitur gopay mudah transaksi hari hari
+promo dan diskon nya banyak sangat menguntungkan banget,5,positif,promo diskon nya banyak sangat untung banget
+perlu banyak perbaikan tapi masih bisa dipakai deh,3,netral,perlu banyak baik masih pakai deh
+promo dan diskon nya banyak sangat menguntungkan ya,4,positif,promo diskon nya banyak sangat untung
+fitur gopay memudahkan transaksi sehari hari deh,4,positif,fitur gopay mudah transaksi hari hari deh
+sangat recommended aplikasi ojek online terbaik nih,5,positif,sangat recommended aplikasi ojek online baik nih
+aplikasi bagus tidak pernah error,5,positif,aplikasi bagus pernah error
+aplikasi sering error dan force close sih,1,negatif,aplikasi sering error force close sih
+pembayaran gopay sering gagal saat checkout banget,2,negatif,bayar gopay sering gagal checkout banget
+promo dan diskon nya banyak sangat menguntungkan sih,4,positif,promo diskon nya banyak sangat untung sih
+tampilan aplikasi membingungkan setelah update deh,1,negatif,tampil aplikasi bingung update deh
+fiturnya standar sama seperti aplikasi lain banget,3,netral,fiturnya standar sama aplikasi banget
+kadang lancar kadang error tergantung jaringan,3,netral,kadang lancar kadang error gantung jaring
+customer service lambat merespon keluhan sih,2,negatif,customer service lambat merespon keluh sih
+customer service lambat merespon keluhan nih,2,negatif,customer service lambat merespon keluh nih
+aplikasi lemot dan sering nge-lag nih,1,negatif,aplikasi lot sering nge lag nih
+pelayanan driver sopan dan profesional banget,4,positif,layan driver sopan profesional banget
+biasa saja tidak buruk tidak juga bagus deh,3,netral,biasa buruk tidak juga bagus deh
+aplikasi sering error dan force close sih,1,negatif,aplikasi sering error force close sih
+kadang lancar kadang error tergantung jaringan ya,3,netral,kadang lancar kadang error gantung jaring
+so so masih perlu banyak improvement ya,3,netral,so so perlu banyak improvement
+perlu banyak perbaikan tapi masih bisa dipakai deh,3,netral,perlu banyak baik masih pakai deh
+promo dan diskon nya banyak sangat menguntungkan nih,5,positif,promo diskon nya banyak sangat untung nih
+aplikasi bagus tidak pernah error sih,5,positif,aplikasi bagus pernah error sih
+kadang puas kadang kecewa tergantung driver sih,3,netral,kadang puas kadang kecewa gantung driver sih
+kadang puas kadang kecewa tergantung driver ya,3,netral,kadang puas kadang kecewa gantung driver
+fitur gopay memudahkan transaksi sehari hari ya,5,positif,fitur gopay mudah transaksi hari hari
+susah dapat driver padahal jam sibuk,1,negatif,susah driver padahal jam sibuk
+terima kasih gojek sangat membantu mobilitas saya ya,5,positif,terima kasih gojek sangat bantu mobilitas ya
+terima kasih gojek sangat membantu mobilitas saya,5,positif,terima kasih gojek sangat bantu mobilitas
+customer service lambat merespon keluhan deh,1,negatif,customer service lambat merespon keluh deh
+aplikasi lemot dan sering nge-lag sih,1,negatif,aplikasi lot sering nge lag sih
+aplikasi gojek sangat membantu dan cepat,5,positif,aplikasi gojek sangat bantu cepat
+fitur gopay memudahkan transaksi sehari hari sih,4,positif,fitur gopay mudah transaksi hari hari sih
+terima kasih gojek sangat membantu mobilitas saya,4,positif,terima kasih gojek sangat bantu mobilitas
+tampilan aplikasi membingungkan setelah update ya,2,negatif,tampil aplikasi bingung update
+GPS tidak akurat driver nyasar terus sih,2,negatif,gps akurat driver nyasar terus sih
+pembayaran gopay sering gagal saat checkout sih,2,negatif,bayar gopay sering gagal checkout sih
+fitur gopay memudahkan transaksi sehari hari deh,5,positif,fitur gopay mudah transaksi hari hari deh
+driver membatalkan pesanan seenaknya sangat kecewa,1,negatif,driver batal pesan enak sangat kecewa
+aplikasi gojek sangat membantu dan cepat nih,5,positif,aplikasi gojek sangat bantu cepat nih
+fitur gopay memudahkan transaksi sehari hari nih,4,positif,fitur gopay mudah transaksi hari hari nih
+so so masih perlu banyak improvement sih,3,netral,so so perlu banyak improvement sih
+cukup membantu meski masih ada kekurangan deh,3,netral,cukup bantu meski ada kurang deh
+lumayan untuk dipakai sehari hari deh,3,netral,lumayan pakai hari hari deh
+driver membatalkan pesanan seenaknya sangat kecewa deh,2,negatif,driver batal pesan enak sangat kecewa deh
+GPS tidak akurat driver nyasar terus sih,1,negatif,gps akurat driver nyasar terus sih
+customer service lambat merespon keluhan deh,2,negatif,customer service lambat merespon keluh deh
+aplikasi gojek sangat membantu dan cepat banget,4,positif,aplikasi gojek sangat bantu cepat banget
+sangat recommended aplikasi ojek online terbaik deh,5,positif,sangat recommended aplikasi ojek online baik deh
+fitur gopay memudahkan transaksi sehari hari nih,5,positif,fitur gopay mudah transaksi hari hari nih
+aplikasi lemot dan sering nge-lag,2,negatif,aplikasi lot sering nge lag
+aplikasi bagus tidak pernah error nih,5,positif,aplikasi bagus pernah error nih
+promo dan diskon nya banyak sangat menguntungkan,5,positif,promo diskon nya banyak sangat untung
+sangat recommended aplikasi ojek online terbaik banget,4,positif,sangat recommended aplikasi ojek online baik banget
+puas dengan layanan gofood pengiriman cepat ya,5,positif,puas layan gofood kirim cepat
+harga tiba tiba naik tanpa alasan jelas deh,1,negatif,harga tiba tiba naik alas jelas deh
+aplikasi oke tapi harga kadang mahal,3,netral,aplikasi oke harga kadang mahal
+driver membatalkan pesanan seenaknya sangat kecewa,1,negatif,driver batal pesan enak sangat kecewa
+kadang lancar kadang error tergantung jaringan ya,3,netral,kadang lancar kadang error gantung jaring
+puas dengan layanan gofood pengiriman cepat nih,4,positif,puas layan gofood kirim cepat nih
+aplikasi lemot dan sering nge-lag banget,2,negatif,aplikasi lot sering nge lag banget
+fitur gopay memudahkan transaksi sehari hari deh,4,positif,fitur gopay mudah transaksi hari hari deh
+driver membatalkan pesanan seenaknya sangat kecewa deh,1,negatif,driver batal pesan enak sangat kecewa deh
+tampilan aplikasi membingungkan setelah update banget,2,negatif,tampil aplikasi bingung update banget
+GPS tidak akurat driver nyasar terus banget,2,negatif,gps akurat driver nyasar terus banget
+fiturnya standar sama seperti aplikasi lain deh,3,netral,fiturnya standar sama aplikasi deh
+tampilan aplikasi membingungkan setelah update ya,1,negatif,tampil aplikasi bingung update
+puas dengan layanan gofood pengiriman cepat deh,5,positif,puas layan gofood kirim cepat deh
+"driver ramah dan tepat waktu, mantap nih",4,positif,driver ramah tepat waktu mantap nih
+cukup membantu meski masih ada kekurangan banget,3,netral,cukup bantu meski ada kurang banget
+aplikasi biasa saja tidak ada yang istimewa nih,3,netral,aplikasi biasa tidak yang istimewa nih
+lumayan untuk dipakai sehari hari sih,3,netral,lumayan pakai hari hari sih
+aplikasi gojek sangat membantu dan cepat deh,5,positif,aplikasi gojek sangat bantu cepat deh
+aplikasi gojek sangat membantu dan cepat nih,4,positif,aplikasi gojek sangat bantu cepat nih
+sangat kecewa dengan pelayanan akhir akhir ini sih,1,negatif,sangat kecewa layan akhir akhir sih
+pelayanan driver sopan dan profesional sih,4,positif,layan driver sopan profesional sih
+harga tiba tiba naik tanpa alasan jelas banget,1,negatif,harga tiba tiba naik alas jelas banget
+aplikasi bagus tidak pernah error sih,4,positif,aplikasi bagus pernah error sih
+promo dan diskon nya banyak sangat menguntungkan nih,4,positif,promo diskon nya banyak sangat untung nih
+customer service lambat merespon keluhan banget,2,negatif,customer service lambat merespon keluh banget
+aplikasi gojek sangat membantu dan cepat banget,5,positif,aplikasi gojek sangat bantu cepat banget
+aplikasi biasa saja tidak ada yang istimewa ya,3,netral,aplikasi biasa tidak yang istimewa
+so so masih perlu banyak improvement ya,3,netral,so so perlu banyak improvement
+perlu banyak perbaikan tapi masih bisa dipakai sih,3,netral,perlu banyak baik masih pakai sih
+aplikasi lemot dan sering nge-lag banget,2,negatif,aplikasi lot sering nge lag banget
+aplikasi bagus tidak pernah error ya,4,positif,aplikasi bagus pernah error
+terima kasih gojek sangat membantu mobilitas saya deh,4,positif,terima kasih gojek sangat bantu mobilitas deh
+aplikasi gojek sangat membantu dan cepat ya,4,positif,aplikasi gojek sangat bantu cepat
+aplikasi gojek sangat membantu dan cepat banget,4,positif,aplikasi gojek sangat bantu cepat banget
+aplikasi biasa saja tidak ada yang istimewa nih,3,netral,aplikasi biasa tidak yang istimewa nih
+"driver ramah dan tepat waktu, mantap deh",4,positif,driver ramah tepat waktu mantap deh
+fiturnya standar sama seperti aplikasi lain sih,3,netral,fiturnya standar sama aplikasi sih
+sangat recommended aplikasi ojek online terbaik,4,positif,sangat recommended aplikasi ojek online baik
+terima kasih gojek sangat membantu mobilitas saya sih,4,positif,terima kasih gojek sangat bantu mobilitas sih
+aplikasi gojek sangat membantu dan cepat deh,5,positif,aplikasi gojek sangat bantu cepat deh
+"driver ramah dan tepat waktu, mantap deh",4,positif,driver ramah tepat waktu mantap deh
+pelayanan driver sopan dan profesional ya,4,positif,layan driver sopan profesional
+driver membatalkan pesanan seenaknya sangat kecewa deh,1,negatif,driver batal pesan enak sangat kecewa deh
+lumayan untuk dipakai sehari hari nih,3,netral,lumayan pakai hari hari nih
+aplikasi oke tapi harga kadang mahal ya,3,netral,aplikasi oke harga kadang mahal
+aplikasi oke tapi harga kadang mahal banget,3,netral,aplikasi oke harga kadang mahal banget
+puas dengan layanan gofood pengiriman cepat,5,positif,puas layan gofood kirim cepat
+pembayaran gopay sering gagal saat checkout sih,1,negatif,bayar gopay sering gagal checkout sih
+pembayaran gopay sering gagal saat checkout banget,1,negatif,bayar gopay sering gagal checkout banget
+perlu banyak perbaikan tapi masih bisa dipakai,3,netral,perlu banyak baik masih pakai
+aplikasi oke tapi harga kadang mahal banget,3,netral,aplikasi oke harga kadang mahal banget
+update terbaru semakin lancar dan responsif deh,5,positif,update baru makin lancar responsif deh
+aplikasi lemot dan sering nge-lag nih,2,negatif,aplikasi lot sering nge lag nih
+GPS tidak akurat driver nyasar terus deh,2,negatif,gps akurat driver nyasar terus deh
+aplikasi bagus tidak pernah error deh,4,positif,aplikasi bagus pernah error deh
+sangat recommended aplikasi ojek online terbaik sih,5,positif,sangat recommended aplikasi ojek online baik sih
+aplikasi oke tapi harga kadang mahal,3,netral,aplikasi oke harga kadang mahal
+GPS tidak akurat driver nyasar terus deh,1,negatif,gps akurat driver nyasar terus deh
+aplikasi gojek sangat membantu dan cepat,4,positif,aplikasi gojek sangat bantu cepat
+sangat kecewa dengan pelayanan akhir akhir ini sih,1,negatif,sangat kecewa layan akhir akhir sih
+aplikasi oke tapi harga kadang mahal nih,3,netral,aplikasi oke harga kadang mahal nih
+update terbaru semakin lancar dan responsif,4,positif,update baru makin lancar responsif
+"driver ramah dan tepat waktu, mantap nih",4,positif,driver ramah tepat waktu mantap nih
+aplikasi biasa saja tidak ada yang istimewa banget,3,netral,aplikasi biasa tidak yang istimewa banget
+aplikasi biasa saja tidak ada yang istimewa banget,3,netral,aplikasi biasa tidak yang istimewa banget
+pembayaran gopay sering gagal saat checkout nih,2,negatif,bayar gopay sering gagal checkout nih
+so so masih perlu banyak improvement banget,3,netral,so so perlu banyak improvement banget
+fitur gopay memudahkan transaksi sehari hari deh,5,positif,fitur gopay mudah transaksi hari hari deh
+aplikasi gojek sangat membantu dan cepat sih,4,positif,aplikasi gojek sangat bantu cepat sih
+perlu banyak perbaikan tapi masih bisa dipakai,3,netral,perlu banyak baik masih pakai
+driver membatalkan pesanan seenaknya sangat kecewa ya,2,negatif,driver batal pesan enak sangat kecewa
+promo dan diskon nya banyak sangat menguntungkan deh,5,positif,promo diskon nya banyak sangat untung deh
+aplikasi gojek sangat membantu dan cepat banget,5,positif,aplikasi gojek sangat bantu cepat banget
+aplikasi bagus tidak pernah error,4,positif,aplikasi bagus pernah error
+tampilan aplikasi membingungkan setelah update ya,1,negatif,tampil aplikasi bingung update
+aplikasi gojek sangat membantu dan cepat deh,4,positif,aplikasi gojek sangat bantu cepat deh
+kadang lancar kadang error tergantung jaringan banget,3,netral,kadang lancar kadang error gantung jaring banget
+aplikasi sering error dan force close ya,1,negatif,aplikasi sering error force close
+susah dapat driver padahal jam sibuk nih,2,negatif,susah driver padahal jam sibuk nih
+kadang puas kadang kecewa tergantung driver deh,3,netral,kadang puas kadang kecewa gantung driver deh
+promo dan diskon nya banyak sangat menguntungkan sih,5,positif,promo diskon nya banyak sangat untung sih
+"driver ramah dan tepat waktu, mantap ya",5,positif,driver ramah tepat waktu mantap
+tampilan aplikasi membingungkan setelah update banget,1,negatif,tampil aplikasi bingung update banget
+aplikasi biasa saja tidak ada yang istimewa nih,3,netral,aplikasi biasa tidak yang istimewa nih
+update terbaru semakin lancar dan responsif ya,5,positif,update baru makin lancar responsif
+aplikasi biasa saja tidak ada yang istimewa nih,3,netral,aplikasi biasa tidak yang istimewa nih
+so so masih perlu banyak improvement sih,3,netral,so so perlu banyak improvement sih
+fitur gopay memudahkan transaksi sehari hari ya,4,positif,fitur gopay mudah transaksi hari hari
+update terbaru semakin lancar dan responsif,4,positif,update baru makin lancar responsif
+aplikasi bagus tidak pernah error,4,positif,aplikasi bagus pernah error
+aplikasi gojek sangat membantu dan cepat banget,5,positif,aplikasi gojek sangat bantu cepat banget
+aplikasi gojek sangat membantu dan cepat,5,positif,aplikasi gojek sangat bantu cepat
+kadang lancar kadang error tergantung jaringan deh,3,netral,kadang lancar kadang error gantung jaring deh
+fiturnya standar sama seperti aplikasi lain,3,netral,fiturnya standar sama aplikasi
+cukup membantu meski masih ada kekurangan ya,3,netral,cukup bantu meski ada kurang
+aplikasi gojek sangat membantu dan cepat ya,4,positif,aplikasi gojek sangat bantu cepat
+sangat kecewa dengan pelayanan akhir akhir ini banget,1,negatif,sangat kecewa layan akhir akhir banget
+kadang lancar kadang error tergantung jaringan,3,netral,kadang lancar kadang error gantung jaring
+aplikasi gojek sangat membantu dan cepat,5,positif,aplikasi gojek sangat bantu cepat
+aplikasi gojek sangat membantu dan cepat,5,positif,aplikasi gojek sangat bantu cepat
+aplikasi oke tapi harga kadang mahal sih,3,netral,aplikasi oke harga kadang mahal sih
+puas dengan layanan gofood pengiriman cepat,4,positif,puas layan gofood kirim cepat
+fitur gopay memudahkan transaksi sehari hari deh,4,positif,fitur gopay mudah transaksi hari hari deh
+aplikasi biasa saja tidak ada yang istimewa deh,3,netral,aplikasi biasa tidak yang istimewa deh
+fitur gopay memudahkan transaksi sehari hari sih,5,positif,fitur gopay mudah transaksi hari hari sih
+"driver ramah dan tepat waktu, mantap banget",4,positif,driver ramah tepat waktu mantap banget
+kadang puas kadang kecewa tergantung driver sih,3,netral,kadang puas kadang kecewa gantung driver sih
+terima kasih gojek sangat membantu mobilitas saya banget,5,positif,terima kasih gojek sangat bantu mobilitas banget
+pembayaran gopay sering gagal saat checkout nih,2,negatif,bayar gopay sering gagal checkout nih
+sangat recommended aplikasi ojek online terbaik,5,positif,sangat recommended aplikasi ojek online baik
+driver membatalkan pesanan seenaknya sangat kecewa deh,2,negatif,driver batal pesan enak sangat kecewa deh
+promo dan diskon nya banyak sangat menguntungkan,5,positif,promo diskon nya banyak sangat untung
+puas dengan layanan gofood pengiriman cepat deh,4,positif,puas layan gofood kirim cepat deh
+fiturnya standar sama seperti aplikasi lain banget,3,netral,fiturnya standar sama aplikasi banget
+kadang lancar kadang error tergantung jaringan sih,3,netral,kadang lancar kadang error gantung jaring sih
+biasa saja tidak buruk tidak juga bagus,3,netral,biasa buruk tidak juga bagus
+sangat kecewa dengan pelayanan akhir akhir ini sih,2,negatif,sangat kecewa layan akhir akhir sih
+sangat kecewa dengan pelayanan akhir akhir ini deh,2,negatif,sangat kecewa layan akhir akhir deh
+susah dapat driver padahal jam sibuk nih,2,negatif,susah driver padahal jam sibuk nih
+aplikasi gojek sangat membantu dan cepat nih,4,positif,aplikasi gojek sangat bantu cepat nih
+aplikasi bagus tidak pernah error ya,5,positif,aplikasi bagus pernah error
+pelayanan driver sopan dan profesional banget,5,positif,layan driver sopan profesional banget
+aplikasi biasa saja tidak ada yang istimewa sih,3,netral,aplikasi biasa tidak yang istimewa sih
+aplikasi oke tapi harga kadang mahal deh,3,netral,aplikasi oke harga kadang mahal deh
+so so masih perlu banyak improvement,3,netral,so so perlu banyak improvement
+fiturnya standar sama seperti aplikasi lain nih,3,netral,fiturnya standar sama aplikasi nih
+promo dan diskon nya banyak sangat menguntungkan banget,4,positif,promo diskon nya banyak sangat untung banget
+aplikasi gojek sangat membantu dan cepat ya,4,positif,aplikasi gojek sangat bantu cepat
+cukup membantu meski masih ada kekurangan,3,netral,cukup bantu meski ada kurang
+harga tiba tiba naik tanpa alasan jelas deh,2,negatif,harga tiba tiba naik alas jelas deh
+lumayan untuk dipakai sehari hari deh,3,netral,lumayan pakai hari hari deh
+"driver ramah dan tepat waktu, mantap banget",4,positif,driver ramah tepat waktu mantap banget
+fitur gopay memudahkan transaksi sehari hari banget,4,positif,fitur gopay mudah transaksi hari hari banget
+puas dengan layanan gofood pengiriman cepat sih,5,positif,puas layan gofood kirim cepat sih
+aplikasi bagus tidak pernah error sih,5,positif,aplikasi bagus pernah error sih
+susah dapat driver padahal jam sibuk,1,negatif,susah driver padahal jam sibuk
+kadang lancar kadang error tergantung jaringan sih,3,netral,kadang lancar kadang error gantung jaring sih
+pelayanan driver sopan dan profesional deh,4,positif,layan driver sopan profesional deh
+fitur gopay memudahkan transaksi sehari hari,5,positif,fitur gopay mudah transaksi hari hari
+aplikasi sering error dan force close,2,negatif,aplikasi sering error force close
+aplikasi bagus tidak pernah error deh,4,positif,aplikasi bagus pernah error deh
+aplikasi bagus tidak pernah error,4,positif,aplikasi bagus pernah error
+so so masih perlu banyak improvement nih,3,netral,so so perlu banyak improvement nih
+fiturnya standar sama seperti aplikasi lain,3,netral,fiturnya standar sama aplikasi
+cukup membantu meski masih ada kekurangan,3,netral,cukup bantu meski ada kurang
+aplikasi oke tapi harga kadang mahal sih,3,netral,aplikasi oke harga kadang mahal sih
+harga tiba tiba naik tanpa alasan jelas sih,1,negatif,harga tiba tiba naik alas jelas sih
+customer service lambat merespon keluhan,2,negatif,customer service lambat merespon keluh
+cukup membantu meski masih ada kekurangan banget,3,netral,cukup bantu meski ada kurang banget
+fitur gopay memudahkan transaksi sehari hari sih,4,positif,fitur gopay mudah transaksi hari hari sih
+so so masih perlu banyak improvement,3,netral,so so perlu banyak improvement
+aplikasi bagus tidak pernah error sih,5,positif,aplikasi bagus pernah error sih
+fiturnya standar sama seperti aplikasi lain deh,3,netral,fiturnya standar sama aplikasi deh
+terima kasih gojek sangat membantu mobilitas saya ya,5,positif,terima kasih gojek sangat bantu mobilitas ya
+"driver ramah dan tepat waktu, mantap deh",4,positif,driver ramah tepat waktu mantap deh
+customer service lambat merespon keluhan deh,1,negatif,customer service lambat merespon keluh deh
+promo dan diskon nya banyak sangat menguntungkan,4,positif,promo diskon nya banyak sangat untung
+fiturnya standar sama seperti aplikasi lain banget,3,netral,fiturnya standar sama aplikasi banget
+cukup membantu meski masih ada kekurangan,3,netral,cukup bantu meski ada kurang
+pembayaran gopay sering gagal saat checkout nih,2,negatif,bayar gopay sering gagal checkout nih
+perlu banyak perbaikan tapi masih bisa dipakai sih,3,netral,perlu banyak baik masih pakai sih
+tampilan aplikasi membingungkan setelah update,2,negatif,tampil aplikasi bingung update
+fitur gopay memudahkan transaksi sehari hari banget,5,positif,fitur gopay mudah transaksi hari hari banget
+harga tiba tiba naik tanpa alasan jelas sih,2,negatif,harga tiba tiba naik alas jelas sih
+fitur gopay memudahkan transaksi sehari hari ya,5,positif,fitur gopay mudah transaksi hari hari
+"driver ramah dan tepat waktu, mantap banget",5,positif,driver ramah tepat waktu mantap banget
+perlu banyak perbaikan tapi masih bisa dipakai deh,3,netral,perlu banyak baik masih pakai deh
+aplikasi sering error dan force close,1,negatif,aplikasi sering error force close
+biasa saja tidak buruk tidak juga bagus deh,3,netral,biasa buruk tidak juga bagus deh
+"driver ramah dan tepat waktu, mantap deh",4,positif,driver ramah tepat waktu mantap deh
+"driver ramah dan tepat waktu, mantap deh",5,positif,driver ramah tepat waktu mantap deh
+aplikasi gojek sangat membantu dan cepat nih,4,positif,aplikasi gojek sangat bantu cepat nih
+lumayan untuk dipakai sehari hari banget,3,netral,lumayan pakai hari hari banget
+pelayanan driver sopan dan profesional,5,positif,layan driver sopan profesional
+aplikasi sering error dan force close banget,2,negatif,aplikasi sering error force close banget
+aplikasi biasa saja tidak ada yang istimewa nih,3,netral,aplikasi biasa tidak yang istimewa nih
+aplikasi oke tapi harga kadang mahal banget,3,netral,aplikasi oke harga kadang mahal banget
+kadang puas kadang kecewa tergantung driver ya,3,netral,kadang puas kadang kecewa gantung driver
+fitur gopay memudahkan transaksi sehari hari deh,5,positif,fitur gopay mudah transaksi hari hari deh
+fiturnya standar sama seperti aplikasi lain,3,netral,fiturnya standar sama aplikasi
+cukup membantu meski masih ada kekurangan deh,3,netral,cukup bantu meski ada kurang deh
+driver membatalkan pesanan seenaknya sangat kecewa ya,1,negatif,driver batal pesan enak sangat kecewa
+biasa saja tidak buruk tidak juga bagus banget,3,netral,biasa buruk tidak juga bagus banget
+aplikasi oke tapi harga kadang mahal ya,3,netral,aplikasi oke harga kadang mahal
+tampilan aplikasi membingungkan setelah update nih,1,negatif,tampil aplikasi bingung update nih
+cukup membantu meski masih ada kekurangan deh,3,netral,cukup bantu meski ada kurang deh
+aplikasi bagus tidak pernah error,4,positif,aplikasi bagus pernah error
+so so masih perlu banyak improvement banget,3,netral,so so perlu banyak improvement banget
+fitur gopay memudahkan transaksi sehari hari sih,5,positif,fitur gopay mudah transaksi hari hari sih
+kadang puas kadang kecewa tergantung driver nih,3,netral,kadang puas kadang kecewa gantung driver nih
+perlu banyak perbaikan tapi masih bisa dipakai banget,3,netral,perlu banyak baik masih pakai banget
+cukup membantu meski masih ada kekurangan ya,3,netral,cukup bantu meski ada kurang
+aplikasi gojek sangat membantu dan cepat deh,4,positif,aplikasi gojek sangat bantu cepat deh
+terima kasih gojek sangat membantu mobilitas saya nih,5,positif,terima kasih gojek sangat bantu mobilitas nih
+perlu banyak perbaikan tapi masih bisa dipakai nih,3,netral,perlu banyak baik masih pakai nih
+fitur gopay memudahkan transaksi sehari hari,4,positif,fitur gopay mudah transaksi hari hari
+driver membatalkan pesanan seenaknya sangat kecewa nih,2,negatif,driver batal pesan enak sangat kecewa nih
+susah dapat driver padahal jam sibuk sih,2,negatif,susah driver padahal jam sibuk sih
+kadang lancar kadang error tergantung jaringan banget,3,netral,kadang lancar kadang error gantung jaring banget
+customer service lambat merespon keluhan ya,1,negatif,customer service lambat merespon keluh
+biasa saja tidak buruk tidak juga bagus banget,3,netral,biasa buruk tidak juga bagus banget
+fitur gopay memudahkan transaksi sehari hari deh,4,positif,fitur gopay mudah transaksi hari hari deh
+puas dengan layanan gofood pengiriman cepat ya,5,positif,puas layan gofood kirim cepat
+"driver ramah dan tepat waktu, mantap deh",5,positif,driver ramah tepat waktu mantap deh
+pembayaran gopay sering gagal saat checkout deh,1,negatif,bayar gopay sering gagal checkout deh
+lumayan untuk dipakai sehari hari ya,3,netral,lumayan pakai hari hari
+aplikasi bagus tidak pernah error deh,4,positif,aplikasi bagus pernah error deh
+aplikasi oke tapi harga kadang mahal sih,3,netral,aplikasi oke harga kadang mahal sih
+cukup membantu meski masih ada kekurangan deh,3,netral,cukup bantu meski ada kurang deh
+aplikasi bagus tidak pernah error sih,5,positif,aplikasi bagus pernah error sih
+biasa saja tidak buruk tidak juga bagus,3,netral,biasa buruk tidak juga bagus
+pelayanan driver sopan dan profesional nih,4,positif,layan driver sopan profesional nih
+pembayaran gopay sering gagal saat checkout banget,1,negatif,bayar gopay sering gagal checkout banget
+aplikasi biasa saja tidak ada yang istimewa ya,3,netral,aplikasi biasa tidak yang istimewa
+aplikasi bagus tidak pernah error sih,5,positif,aplikasi bagus pernah error sih
+sangat recommended aplikasi ojek online terbaik,5,positif,sangat recommended aplikasi ojek online baik
+aplikasi biasa saja tidak ada yang istimewa nih,3,netral,aplikasi biasa tidak yang istimewa nih
+sangat kecewa dengan pelayanan akhir akhir ini nih,2,negatif,sangat kecewa layan akhir akhir nih
+tampilan aplikasi membingungkan setelah update ya,1,negatif,tampil aplikasi bingung update
+biasa saja tidak buruk tidak juga bagus sih,3,netral,biasa buruk tidak juga bagus sih
+kadang lancar kadang error tergantung jaringan,3,netral,kadang lancar kadang error gantung jaring
+promo dan diskon nya banyak sangat menguntungkan,5,positif,promo diskon nya banyak sangat untung
+aplikasi sering error dan force close deh,2,negatif,aplikasi sering error force close deh
+"driver ramah dan tepat waktu, mantap ya",5,positif,driver ramah tepat waktu mantap
+aplikasi lemot dan sering nge-lag nih,2,negatif,aplikasi lot sering nge lag nih
+fitur gopay memudahkan transaksi sehari hari deh,5,positif,fitur gopay mudah transaksi hari hari deh
+perlu banyak perbaikan tapi masih bisa dipakai deh,3,netral,perlu banyak baik masih pakai deh
+lumayan untuk dipakai sehari hari deh,3,netral,lumayan pakai hari hari deh
+perlu banyak perbaikan tapi masih bisa dipakai ya,3,netral,perlu banyak baik masih pakai
+pembayaran gopay sering gagal saat checkout,2,negatif,bayar gopay sering gagal checkout
+lumayan untuk dipakai sehari hari deh,3,netral,lumayan pakai hari hari deh
+sangat kecewa dengan pelayanan akhir akhir ini ya,1,negatif,sangat kecewa layan akhir akhir ya
+aplikasi bagus tidak pernah error deh,5,positif,aplikasi bagus pernah error deh
+aplikasi bagus tidak pernah error sih,5,positif,aplikasi bagus pernah error sih
+aplikasi biasa saja tidak ada yang istimewa nih,3,netral,aplikasi biasa tidak yang istimewa nih
+aplikasi biasa saja tidak ada yang istimewa deh,3,netral,aplikasi biasa tidak yang istimewa deh
+aplikasi biasa saja tidak ada yang istimewa,3,netral,aplikasi biasa tidak yang istimewa
+kadang puas kadang kecewa tergantung driver sih,3,netral,kadang puas kadang kecewa gantung driver sih
+aplikasi gojek sangat membantu dan cepat deh,4,positif,aplikasi gojek sangat bantu cepat deh
+sangat kecewa dengan pelayanan akhir akhir ini banget,1,negatif,sangat kecewa layan akhir akhir banget
+terima kasih gojek sangat membantu mobilitas saya banget,4,positif,terima kasih gojek sangat bantu mobilitas banget
+sangat recommended aplikasi ojek online terbaik banget,5,positif,sangat recommended aplikasi ojek online baik banget
+aplikasi gojek sangat membantu dan cepat,4,positif,aplikasi gojek sangat bantu cepat
+perlu banyak perbaikan tapi masih bisa dipakai deh,3,netral,perlu banyak baik masih pakai deh
+susah dapat driver padahal jam sibuk deh,2,negatif,susah driver padahal jam sibuk deh
+terima kasih gojek sangat membantu mobilitas saya sih,5,positif,terima kasih gojek sangat bantu mobilitas sih
+kadang lancar kadang error tergantung jaringan sih,3,netral,kadang lancar kadang error gantung jaring sih
+promo dan diskon nya banyak sangat menguntungkan ya,4,positif,promo diskon nya banyak sangat untung
+susah dapat driver padahal jam sibuk banget,2,negatif,susah driver padahal jam sibuk banget
+"driver ramah dan tepat waktu, mantap nih",4,positif,driver ramah tepat waktu mantap nih
+promo dan diskon nya banyak sangat menguntungkan nih,5,positif,promo diskon nya banyak sangat untung nih
+pembayaran gopay sering gagal saat checkout banget,2,negatif,bayar gopay sering gagal checkout banget
+update terbaru semakin lancar dan responsif ya,5,positif,update baru makin lancar responsif
+"driver ramah dan tepat waktu, mantap ya",4,positif,driver ramah tepat waktu mantap
+update terbaru semakin lancar dan responsif nih,5,positif,update baru makin lancar responsif nih
+driver membatalkan pesanan seenaknya sangat kecewa banget,2,negatif,driver batal pesan enak sangat kecewa banget
+puas dengan layanan gofood pengiriman cepat banget,5,positif,puas layan gofood kirim cepat banget
+customer service lambat merespon keluhan sih,1,negatif,customer service lambat merespon keluh sih
+fiturnya standar sama seperti aplikasi lain banget,3,netral,fiturnya standar sama aplikasi banget
+aplikasi oke tapi harga kadang mahal sih,3,netral,aplikasi oke harga kadang mahal sih
+biasa saja tidak buruk tidak juga bagus,3,netral,biasa buruk tidak juga bagus
+fitur gopay memudahkan transaksi sehari hari,5,positif,fitur gopay mudah transaksi hari hari
+customer service lambat merespon keluhan nih,2,negatif,customer service lambat merespon keluh nih
+driver membatalkan pesanan seenaknya sangat kecewa sih,1,negatif,driver batal pesan enak sangat kecewa sih
+lumayan untuk dipakai sehari hari ya,3,netral,lumayan pakai hari hari
+lumayan untuk dipakai sehari hari ya,3,netral,lumayan pakai hari hari
+cukup membantu meski masih ada kekurangan,3,netral,cukup bantu meski ada kurang
+"driver ramah dan tepat waktu, mantap ya",4,positif,driver ramah tepat waktu mantap
+so so masih perlu banyak improvement nih,3,netral,so so perlu banyak improvement nih
+cukup membantu meski masih ada kekurangan ya,3,netral,cukup bantu meski ada kurang
+aplikasi oke tapi harga kadang mahal banget,3,netral,aplikasi oke harga kadang mahal banget
+biasa saja tidak buruk tidak juga bagus nih,3,netral,biasa buruk tidak juga bagus nih
+aplikasi biasa saja tidak ada yang istimewa nih,3,netral,aplikasi biasa tidak yang istimewa nih
+susah dapat driver padahal jam sibuk banget,1,negatif,susah driver padahal jam sibuk banget
+aplikasi biasa saja tidak ada yang istimewa,3,netral,aplikasi biasa tidak yang istimewa
+cukup membantu meski masih ada kekurangan deh,3,netral,cukup bantu meski ada kurang deh
+aplikasi bagus tidak pernah error nih,4,positif,aplikasi bagus pernah error nih
+biasa saja tidak buruk tidak juga bagus,3,netral,biasa buruk tidak juga bagus
+harga tiba tiba naik tanpa alasan jelas,2,negatif,harga tiba tiba naik alas jelas
+fitur gopay memudahkan transaksi sehari hari sih,4,positif,fitur gopay mudah transaksi hari hari sih
+aplikasi biasa saja tidak ada yang istimewa banget,3,netral,aplikasi biasa tidak yang istimewa banget
+susah dapat driver padahal jam sibuk sih,2,negatif,susah driver padahal jam sibuk sih
+GPS tidak akurat driver nyasar terus nih,2,negatif,gps akurat driver nyasar terus nih
+fitur gopay memudahkan transaksi sehari hari,4,positif,fitur gopay mudah transaksi hari hari
+aplikasi oke tapi harga kadang mahal ya,3,netral,aplikasi oke harga kadang mahal
+update terbaru semakin lancar dan responsif sih,4,positif,update baru makin lancar responsif sih
+fiturnya standar sama seperti aplikasi lain,3,netral,fiturnya standar sama aplikasi
+customer service lambat merespon keluhan ya,2,negatif,customer service lambat merespon keluh
+perlu banyak perbaikan tapi masih bisa dipakai banget,3,netral,perlu banyak baik masih pakai banget
+update terbaru semakin lancar dan responsif banget,5,positif,update baru makin lancar responsif banget
+perlu banyak perbaikan tapi masih bisa dipakai nih,3,netral,perlu banyak baik masih pakai nih
+cukup membantu meski masih ada kekurangan deh,3,netral,cukup bantu meski ada kurang deh
+update terbaru semakin lancar dan responsif deh,4,positif,update baru makin lancar responsif deh
+lumayan untuk dipakai sehari hari sih,3,netral,lumayan pakai hari hari sih
+cukup membantu meski masih ada kekurangan nih,3,netral,cukup bantu meski ada kurang nih
+fitur gopay memudahkan transaksi sehari hari nih,4,positif,fitur gopay mudah transaksi hari hari nih
+perlu banyak perbaikan tapi masih bisa dipakai,3,netral,perlu banyak baik masih pakai
+GPS tidak akurat driver nyasar terus sih,2,negatif,gps akurat driver nyasar terus sih
+lumayan untuk dipakai sehari hari banget,3,netral,lumayan pakai hari hari banget
+kadang puas kadang kecewa tergantung driver deh,3,netral,kadang puas kadang kecewa gantung driver deh
+update terbaru semakin lancar dan responsif nih,4,positif,update baru makin lancar responsif nih
+sangat recommended aplikasi ojek online terbaik sih,5,positif,sangat recommended aplikasi ojek online baik sih
+so so masih perlu banyak improvement deh,3,netral,so so perlu banyak improvement deh
+pembayaran gopay sering gagal saat checkout deh,1,negatif,bayar gopay sering gagal checkout deh
+aplikasi lemot dan sering nge-lag banget,1,negatif,aplikasi lot sering nge lag banget
+"driver ramah dan tepat waktu, mantap banget",5,positif,driver ramah tepat waktu mantap banget
+aplikasi gojek sangat membantu dan cepat sih,4,positif,aplikasi gojek sangat bantu cepat sih
+promo dan diskon nya banyak sangat menguntungkan nih,5,positif,promo diskon nya banyak sangat untung nih
+puas dengan layanan gofood pengiriman cepat deh,5,positif,puas layan gofood kirim cepat deh
+lumayan untuk dipakai sehari hari deh,3,netral,lumayan pakai hari hari deh
+kadang puas kadang kecewa tergantung driver banget,3,netral,kadang puas kadang kecewa gantung driver banget
+harga tiba tiba naik tanpa alasan jelas sih,2,negatif,harga tiba tiba naik alas jelas sih
+puas dengan layanan gofood pengiriman cepat sih,5,positif,puas layan gofood kirim cepat sih
+tampilan aplikasi membingungkan setelah update ya,1,negatif,tampil aplikasi bingung update
+harga tiba tiba naik tanpa alasan jelas ya,2,negatif,harga tiba tiba naik alas jelas
+fiturnya standar sama seperti aplikasi lain banget,3,netral,fiturnya standar sama aplikasi banget
+perlu banyak perbaikan tapi masih bisa dipakai sih,3,netral,perlu banyak baik masih pakai sih
+lumayan untuk dipakai sehari hari sih,3,netral,lumayan pakai hari hari sih
+harga tiba tiba naik tanpa alasan jelas nih,2,negatif,harga tiba tiba naik alas jelas nih
+so so masih perlu banyak improvement sih,3,netral,so so perlu banyak improvement sih
+fiturnya standar sama seperti aplikasi lain deh,3,netral,fiturnya standar sama aplikasi deh
+perlu banyak perbaikan tapi masih bisa dipakai banget,3,netral,perlu banyak baik masih pakai banget
+sangat kecewa dengan pelayanan akhir akhir ini ya,1,negatif,sangat kecewa layan akhir akhir ya
+perlu banyak perbaikan tapi masih bisa dipakai,3,netral,perlu banyak baik masih pakai
+customer service lambat merespon keluhan banget,1,negatif,customer service lambat merespon keluh banget
+puas dengan layanan gofood pengiriman cepat nih,5,positif,puas layan gofood kirim cepat nih
+promo dan diskon nya banyak sangat menguntungkan sih,4,positif,promo diskon nya banyak sangat untung sih
+kadang lancar kadang error tergantung jaringan,3,netral,kadang lancar kadang error gantung jaring
+"driver ramah dan tepat waktu, mantap",5,positif,driver ramah tepat waktu mantap
+sangat kecewa dengan pelayanan akhir akhir ini,1,negatif,sangat kecewa layan akhir akhir
+update terbaru semakin lancar dan responsif sih,5,positif,update baru makin lancar responsif sih
+GPS tidak akurat driver nyasar terus ya,1,negatif,gps akurat driver nyasar terus
+aplikasi bagus tidak pernah error banget,5,positif,aplikasi bagus pernah error banget
+perlu banyak perbaikan tapi masih bisa dipakai nih,3,netral,perlu banyak baik masih pakai nih
+perlu banyak perbaikan tapi masih bisa dipakai deh,3,netral,perlu banyak baik masih pakai deh
+lumayan untuk dipakai sehari hari nih,3,netral,lumayan pakai hari hari nih
+kadang lancar kadang error tergantung jaringan,3,netral,kadang lancar kadang error gantung jaring
+so so masih perlu banyak improvement deh,3,netral,so so perlu banyak improvement deh
+biasa saja tidak buruk tidak juga bagus,3,netral,biasa buruk tidak juga bagus
+aplikasi bagus tidak pernah error ya,5,positif,aplikasi bagus pernah error
+sangat kecewa dengan pelayanan akhir akhir ini nih,2,negatif,sangat kecewa layan akhir akhir nih
+aplikasi gojek sangat membantu dan cepat ya,5,positif,aplikasi gojek sangat bantu cepat
+perlu banyak perbaikan tapi masih bisa dipakai,3,netral,perlu banyak baik masih pakai
+harga tiba tiba naik tanpa alasan jelas,1,negatif,harga tiba tiba naik alas jelas
+biasa saja tidak buruk tidak juga bagus deh,3,netral,biasa buruk tidak juga bagus deh
+harga tiba tiba naik tanpa alasan jelas deh,1,negatif,harga tiba tiba naik alas jelas deh
+aplikasi sering error dan force close ya,2,negatif,aplikasi sering error force close
+so so masih perlu banyak improvement ya,3,netral,so so perlu banyak improvement
+update terbaru semakin lancar dan responsif deh,4,positif,update baru makin lancar responsif deh
+puas dengan layanan gofood pengiriman cepat ya,5,positif,puas layan gofood kirim cepat
+aplikasi oke tapi harga kadang mahal ya,3,netral,aplikasi oke harga kadang mahal
+puas dengan layanan gofood pengiriman cepat banget,4,positif,puas layan gofood kirim cepat banget
+lumayan untuk dipakai sehari hari banget,3,netral,lumayan pakai hari hari banget
+so so masih perlu banyak improvement banget,3,netral,so so perlu banyak improvement banget
+pelayanan driver sopan dan profesional banget,4,positif,layan driver sopan profesional banget
+pelayanan driver sopan dan profesional ya,5,positif,layan driver sopan profesional
+kadang lancar kadang error tergantung jaringan sih,3,netral,kadang lancar kadang error gantung jaring sih
+fiturnya standar sama seperti aplikasi lain,3,netral,fiturnya standar sama aplikasi
+lumayan untuk dipakai sehari hari deh,3,netral,lumayan pakai hari hari deh
+aplikasi sering error dan force close,2,negatif,aplikasi sering error force close
+aplikasi biasa saja tidak ada yang istimewa deh,3,netral,aplikasi biasa tidak yang istimewa deh
+tampilan aplikasi membingungkan setelah update banget,2,negatif,tampil aplikasi bingung update banget
+so so masih perlu banyak improvement deh,3,netral,so so perlu banyak improvement deh
+biasa saja tidak buruk tidak juga bagus nih,3,netral,biasa buruk tidak juga bagus nih
+fitur gopay memudahkan transaksi sehari hari deh,5,positif,fitur gopay mudah transaksi hari hari deh
+perlu banyak perbaikan tapi masih bisa dipakai sih,3,netral,perlu banyak baik masih pakai sih
+kadang lancar kadang error tergantung jaringan ya,3,netral,kadang lancar kadang error gantung jaring
+pembayaran gopay sering gagal saat checkout nih,2,negatif,bayar gopay sering gagal checkout nih
+sangat kecewa dengan pelayanan akhir akhir ini sih,2,negatif,sangat kecewa layan akhir akhir sih
+driver membatalkan pesanan seenaknya sangat kecewa sih,2,negatif,driver batal pesan enak sangat kecewa sih
+aplikasi gojek sangat membantu dan cepat ya,5,positif,aplikasi gojek sangat bantu cepat
+aplikasi bagus tidak pernah error banget,4,positif,aplikasi bagus pernah error banget
+perlu banyak perbaikan tapi masih bisa dipakai ya,3,netral,perlu banyak baik masih pakai
+puas dengan layanan gofood pengiriman cepat sih,5,positif,puas layan gofood kirim cepat sih
+terima kasih gojek sangat membantu mobilitas saya ya,5,positif,terima kasih gojek sangat bantu mobilitas ya
+"driver ramah dan tepat waktu, mantap banget",5,positif,driver ramah tepat waktu mantap banget
+so so masih perlu banyak improvement ya,3,netral,so so perlu banyak improvement
+sangat recommended aplikasi ojek online terbaik deh,5,positif,sangat recommended aplikasi ojek online baik deh
+sangat kecewa dengan pelayanan akhir akhir ini ya,2,negatif,sangat kecewa layan akhir akhir ya
+perlu banyak perbaikan tapi masih bisa dipakai deh,3,netral,perlu banyak baik masih pakai deh
+promo dan diskon nya banyak sangat menguntungkan banget,5,positif,promo diskon nya banyak sangat untung banget
+puas dengan layanan gofood pengiriman cepat banget,5,positif,puas layan gofood kirim cepat banget
+tampilan aplikasi membingungkan setelah update nih,1,negatif,tampil aplikasi bingung update nih
+biasa saja tidak buruk tidak juga bagus deh,3,netral,biasa buruk tidak juga bagus deh
+puas dengan layanan gofood pengiriman cepat ya,5,positif,puas layan gofood kirim cepat
+tampilan aplikasi membingungkan setelah update ya,1,negatif,tampil aplikasi bingung update
+customer service lambat merespon keluhan sih,2,negatif,customer service lambat merespon keluh sih
+puas dengan layanan gofood pengiriman cepat sih,5,positif,puas layan gofood kirim cepat sih
+update terbaru semakin lancar dan responsif deh,4,positif,update baru makin lancar responsif deh
+GPS tidak akurat driver nyasar terus sih,2,negatif,gps akurat driver nyasar terus sih
+aplikasi oke tapi harga kadang mahal deh,3,netral,aplikasi oke harga kadang mahal deh
+sangat recommended aplikasi ojek online terbaik,5,positif,sangat recommended aplikasi ojek online baik
+so so masih perlu banyak improvement deh,3,netral,so so perlu banyak improvement deh
+sangat kecewa dengan pelayanan akhir akhir ini sih,1,negatif,sangat kecewa layan akhir akhir sih
+fiturnya standar sama seperti aplikasi lain banget,3,netral,fiturnya standar sama aplikasi banget
+terima kasih gojek sangat membantu mobilitas saya nih,4,positif,terima kasih gojek sangat bantu mobilitas nih
+cukup membantu meski masih ada kekurangan,3,netral,cukup bantu meski ada kurang
+aplikasi bagus tidak pernah error nih,4,positif,aplikasi bagus pernah error nih
+promo dan diskon nya banyak sangat menguntungkan sih,5,positif,promo diskon nya banyak sangat untung sih
+promo dan diskon nya banyak sangat menguntungkan sih,5,positif,promo diskon nya banyak sangat untung sih
+aplikasi sering error dan force close nih,1,negatif,aplikasi sering error force close nih
+aplikasi bagus tidak pernah error nih,4,positif,aplikasi bagus pernah error nih
+"driver ramah dan tepat waktu, mantap nih",4,positif,driver ramah tepat waktu mantap nih
+lumayan untuk dipakai sehari hari sih,3,netral,lumayan pakai hari hari sih
+promo dan diskon nya banyak sangat menguntungkan,4,positif,promo diskon nya banyak sangat untung
+kadang lancar kadang error tergantung jaringan banget,3,netral,kadang lancar kadang error gantung jaring banget
+promo dan diskon nya banyak sangat menguntungkan ya,4,positif,promo diskon nya banyak sangat untung
+pelayanan driver sopan dan profesional ya,5,positif,layan driver sopan profesional
+aplikasi biasa saja tidak ada yang istimewa sih,3,netral,aplikasi biasa tidak yang istimewa sih
+biasa saja tidak buruk tidak juga bagus banget,3,netral,biasa buruk tidak juga bagus banget
+aplikasi biasa saja tidak ada yang istimewa nih,3,netral,aplikasi biasa tidak yang istimewa nih
+puas dengan layanan gofood pengiriman cepat sih,4,positif,puas layan gofood kirim cepat sih
+kadang puas kadang kecewa tergantung driver sih,3,netral,kadang puas kadang kecewa gantung driver sih
+fitur gopay memudahkan transaksi sehari hari ya,5,positif,fitur gopay mudah transaksi hari hari
+biasa saja tidak buruk tidak juga bagus banget,3,netral,biasa buruk tidak juga bagus banget
+driver membatalkan pesanan seenaknya sangat kecewa banget,1,negatif,driver batal pesan enak sangat kecewa banget
+susah dapat driver padahal jam sibuk deh,1,negatif,susah driver padahal jam sibuk deh
+perlu banyak perbaikan tapi masih bisa dipakai sih,3,netral,perlu banyak baik masih pakai sih
+lumayan untuk dipakai sehari hari banget,3,netral,lumayan pakai hari hari banget
+biasa saja tidak buruk tidak juga bagus banget,3,netral,biasa buruk tidak juga bagus banget
+fitur gopay memudahkan transaksi sehari hari ya,4,positif,fitur gopay mudah transaksi hari hari
+fitur gopay memudahkan transaksi sehari hari sih,5,positif,fitur gopay mudah transaksi hari hari sih
+aplikasi gojek sangat membantu dan cepat ya,4,positif,aplikasi gojek sangat bantu cepat
+pembayaran gopay sering gagal saat checkout deh,2,negatif,bayar gopay sering gagal checkout deh
+aplikasi oke tapi harga kadang mahal,3,netral,aplikasi oke harga kadang mahal
+sangat kecewa dengan pelayanan akhir akhir ini ya,2,negatif,sangat kecewa layan akhir akhir ya
+cukup membantu meski masih ada kekurangan deh,3,netral,cukup bantu meski ada kurang deh
+susah dapat driver padahal jam sibuk banget,2,negatif,susah driver padahal jam sibuk banget
+lumayan untuk dipakai sehari hari deh,3,netral,lumayan pakai hari hari deh
+kadang lancar kadang error tergantung jaringan deh,3,netral,kadang lancar kadang error gantung jaring deh
+"driver ramah dan tepat waktu, mantap",5,positif,driver ramah tepat waktu mantap
+aplikasi sering error dan force close banget,1,negatif,aplikasi sering error force close banget
+aplikasi bagus tidak pernah error nih,5,positif,aplikasi bagus pernah error nih
+pelayanan driver sopan dan profesional ya,4,positif,layan driver sopan profesional
+so so masih perlu banyak improvement nih,3,netral,so so perlu banyak improvement nih
+biasa saja tidak buruk tidak juga bagus deh,3,netral,biasa buruk tidak juga bagus deh
+pembayaran gopay sering gagal saat checkout deh,1,negatif,bayar gopay sering gagal checkout deh
+terima kasih gojek sangat membantu mobilitas saya ya,5,positif,terima kasih gojek sangat bantu mobilitas ya
+aplikasi bagus tidak pernah error ya,4,positif,aplikasi bagus pernah error
+aplikasi gojek sangat membantu dan cepat sih,4,positif,aplikasi gojek sangat bantu cepat sih
+so so masih perlu banyak improvement deh,3,netral,so so perlu banyak improvement deh
+driver membatalkan pesanan seenaknya sangat kecewa ya,2,negatif,driver batal pesan enak sangat kecewa
+driver membatalkan pesanan seenaknya sangat kecewa ya,1,negatif,driver batal pesan enak sangat kecewa
+pembayaran gopay sering gagal saat checkout,1,negatif,bayar gopay sering gagal checkout
+terima kasih gojek sangat membantu mobilitas saya deh,5,positif,terima kasih gojek sangat bantu mobilitas deh
+promo dan diskon nya banyak sangat menguntungkan,5,positif,promo diskon nya banyak sangat untung
+puas dengan layanan gofood pengiriman cepat deh,4,positif,puas layan gofood kirim cepat deh
+tampilan aplikasi membingungkan setelah update banget,1,negatif,tampil aplikasi bingung update banget
+aplikasi bagus tidak pernah error,5,positif,aplikasi bagus pernah error
+biasa saja tidak buruk tidak juga bagus banget,3,netral,biasa buruk tidak juga bagus banget
+terima kasih gojek sangat membantu mobilitas saya nih,5,positif,terima kasih gojek sangat bantu mobilitas nih
+puas dengan layanan gofood pengiriman cepat sih,4,positif,puas layan gofood kirim cepat sih
+fitur gopay memudahkan transaksi sehari hari,4,positif,fitur gopay mudah transaksi hari hari
+GPS tidak akurat driver nyasar terus banget,2,negatif,gps akurat driver nyasar terus banget
+aplikasi gojek sangat membantu dan cepat,5,positif,aplikasi gojek sangat bantu cepat
+"driver ramah dan tepat waktu, mantap",5,positif,driver ramah tepat waktu mantap
+aplikasi bagus tidak pernah error sih,5,positif,aplikasi bagus pernah error sih
+biasa saja tidak buruk tidak juga bagus deh,3,netral,biasa buruk tidak juga bagus deh
+aplikasi biasa saja tidak ada yang istimewa,3,netral,aplikasi biasa tidak yang istimewa
+aplikasi oke tapi harga kadang mahal,3,netral,aplikasi oke harga kadang mahal
+lumayan untuk dipakai sehari hari ya,3,netral,lumayan pakai hari hari
+aplikasi lemot dan sering nge-lag ya,1,negatif,aplikasi lot sering nge lag
+kadang puas kadang kecewa tergantung driver banget,3,netral,kadang puas kadang kecewa gantung driver banget
+tampilan aplikasi membingungkan setelah update sih,1,negatif,tampil aplikasi bingung update sih
+kadang lancar kadang error tergantung jaringan,3,netral,kadang lancar kadang error gantung jaring
+sangat recommended aplikasi ojek online terbaik,5,positif,sangat recommended aplikasi ojek online baik
+pembayaran gopay sering gagal saat checkout,1,negatif,bayar gopay sering gagal checkout
+aplikasi oke tapi harga kadang mahal,3,netral,aplikasi oke harga kadang mahal
+aplikasi lemot dan sering nge-lag ya,1,negatif,aplikasi lot sering nge lag
+perlu banyak perbaikan tapi masih bisa dipakai banget,3,netral,perlu banyak baik masih pakai banget
+aplikasi bagus tidak pernah error banget,4,positif,aplikasi bagus pernah error banget
+so so masih perlu banyak improvement,3,netral,so so perlu banyak improvement
+kadang lancar kadang error tergantung jaringan nih,3,netral,kadang lancar kadang error gantung jaring nih
+aplikasi lemot dan sering nge-lag nih,2,negatif,aplikasi lot sering nge lag nih
+kadang puas kadang kecewa tergantung driver banget,3,netral,kadang puas kadang kecewa gantung driver banget
+driver membatalkan pesanan seenaknya sangat kecewa deh,1,negatif,driver batal pesan enak sangat kecewa deh
+puas dengan layanan gofood pengiriman cepat,5,positif,puas layan gofood kirim cepat
+tampilan aplikasi membingungkan setelah update sih,2,negatif,tampil aplikasi bingung update sih
+susah dapat driver padahal jam sibuk deh,1,negatif,susah driver padahal jam sibuk deh
+aplikasi oke tapi harga kadang mahal ya,3,netral,aplikasi oke harga kadang mahal
+kadang puas kadang kecewa tergantung driver nih,3,netral,kadang puas kadang kecewa gantung driver nih
+"driver ramah dan tepat waktu, mantap nih",5,positif,driver ramah tepat waktu mantap nih
+pelayanan driver sopan dan profesional nih,5,positif,layan driver sopan profesional nih
+sangat recommended aplikasi ojek online terbaik,4,positif,sangat recommended aplikasi ojek online baik
+customer service lambat merespon keluhan nih,2,negatif,customer service lambat merespon keluh nih
+update terbaru semakin lancar dan responsif ya,4,positif,update baru makin lancar responsif
+aplikasi bagus tidak pernah error,5,positif,aplikasi bagus pernah error
+aplikasi bagus tidak pernah error ya,4,positif,aplikasi bagus pernah error
+terima kasih gojek sangat membantu mobilitas saya sih,4,positif,terima kasih gojek sangat bantu mobilitas sih
+lumayan untuk dipakai sehari hari sih,3,netral,lumayan pakai hari hari sih
+tampilan aplikasi membingungkan setelah update sih,1,negatif,tampil aplikasi bingung update sih
+driver membatalkan pesanan seenaknya sangat kecewa deh,2,negatif,driver batal pesan enak sangat kecewa deh
+update terbaru semakin lancar dan responsif banget,4,positif,update baru makin lancar responsif banget
+kadang lancar kadang error tergantung jaringan ya,3,netral,kadang lancar kadang error gantung jaring
+aplikasi gojek sangat membantu dan cepat banget,5,positif,aplikasi gojek sangat bantu cepat banget
+aplikasi oke tapi harga kadang mahal,3,netral,aplikasi oke harga kadang mahal
+"driver ramah dan tepat waktu, mantap",4,positif,driver ramah tepat waktu mantap
+fiturnya standar sama seperti aplikasi lain sih,3,netral,fiturnya standar sama aplikasi sih
+aplikasi biasa saja tidak ada yang istimewa,3,netral,aplikasi biasa tidak yang istimewa
+terima kasih gojek sangat membantu mobilitas saya sih,5,positif,terima kasih gojek sangat bantu mobilitas sih
+update terbaru semakin lancar dan responsif ya,5,positif,update baru makin lancar responsif
+promo dan diskon nya banyak sangat menguntungkan deh,4,positif,promo diskon nya banyak sangat untung deh
+sangat kecewa dengan pelayanan akhir akhir ini sih,1,negatif,sangat kecewa layan akhir akhir sih
+pelayanan driver sopan dan profesional nih,4,positif,layan driver sopan profesional nih
+sangat recommended aplikasi ojek online terbaik banget,5,positif,sangat recommended aplikasi ojek online baik banget
+tampilan aplikasi membingungkan setelah update banget,1,negatif,tampil aplikasi bingung update banget
+aplikasi bagus tidak pernah error,4,positif,aplikasi bagus pernah error
+driver membatalkan pesanan seenaknya sangat kecewa,2,negatif,driver batal pesan enak sangat kecewa
+promo dan diskon nya banyak sangat menguntungkan deh,4,positif,promo diskon nya banyak sangat untung deh
+perlu banyak perbaikan tapi masih bisa dipakai ya,3,netral,perlu banyak baik masih pakai
+aplikasi gojek sangat membantu dan cepat ya,4,positif,aplikasi gojek sangat bantu cepat
+"driver ramah dan tepat waktu, mantap",4,positif,driver ramah tepat waktu mantap
+puas dengan layanan gofood pengiriman cepat,4,positif,puas layan gofood kirim cepat
+kadang lancar kadang error tergantung jaringan nih,3,netral,kadang lancar kadang error gantung jaring nih
+aplikasi sering error dan force close ya,1,negatif,aplikasi sering error force close
+pelayanan driver sopan dan profesional deh,5,positif,layan driver sopan profesional deh
