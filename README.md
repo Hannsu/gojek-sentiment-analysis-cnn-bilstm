@@ -11,7 +11,7 @@ pip install -r backend/requirements.txt
 pip install -r gui_web/requirements.txt
 ```
 
-2. (Opsional) Pakai dataset asli
+2. Pakai dataset asli
 Download dari Kaggle: https://www.kaggle.com/datasets/ucupsedaya/gojek-app-reviews-bahasa-indonesia
 Simpan sebagai `data/gojek_reviews.csv`.
 
