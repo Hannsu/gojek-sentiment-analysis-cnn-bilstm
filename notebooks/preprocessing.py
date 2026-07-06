@@ -1,7 +1,7 @@
 """
 PREPROCESSING PIPELINE
 Input -> Cleaning -> Case Folding -> Tokenisasi -> Stopword Removal -> Stemming
-Sesuai alur WAJIB: Input > Preprocessing > Data Splitting
+Input > Preprocessing > Data Splitting
 """
 import os
 import re
