@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# gojek-sentiment-analysis-cnn-bilstm
-Analisis Sentimen Pengguna Aplikasi Gojek pada Ulasan Google Play Store Menggunakan Perbandingan Model Deep Learning CNN dan Hybrid CNN-BiLSTM
-=======
-=======
->>>>>>> 813d176213060a1d61d90da4d0fa208000da249c
 UAS - Sentiment Analysis Gojek App Reviews
 
 Proyek klasifikasi sentimen ulasan aplikasi Gojek, mengembangkan referensi
@@ -18,11 +11,7 @@ pip install -r backend/requirements.txt
 pip install -r gui_web/requirements.txt
 ```
 
-<<<<<<< HEAD
-2. (Opsional) Pakai dataset asli
-=======
 2. Pakai dataset asli
->>>>>>> 813d176213060a1d61d90da4d0fa208000da249c
 Download dari Kaggle: https://www.kaggle.com/datasets/ucupsedaya/gojek-app-reviews-bahasa-indonesia
 Simpan sebagai `data/gojek_reviews.csv`.
 
@@ -66,7 +55,3 @@ streamlit run app_streamlit.py
   Perception of the Gojek Application Using CNN (JAIC - Polibatam)
 - Dataset: Kaggle - ucupsedaya/gojek-app-reviews-bahasa-indonesia
 - Struktur proyek terinspirasi dari repo kelompok: github.com/Reyysusanto/loan-approval
-<<<<<<< HEAD
->>>>>>> b1eb347 (initial pipeline setup)
-=======
->>>>>>> 813d176213060a1d61d90da4d0fa208000da249c
