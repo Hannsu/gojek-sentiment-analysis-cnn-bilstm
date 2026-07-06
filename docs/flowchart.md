@@ -1,5 +1,6 @@
 # Flowchart Proyek: Sentiment Analysis Gojek App Reviews
- 1. Flowchart WAJIB (Alur Utama)
+
+## 1. Flowchart WAJIB (Alur Utama)
 
 ```mermaid
 flowchart TD
@@ -26,7 +27,8 @@ flowchart TD
     L --> M[Output: Prediksi Sentimen
     Positif / Netral / Negatif]
 ```
- 2. Flowchart TAMBAHAN (Sunnah - Proses Ekstra)
+
+## 2. Flowchart TAMBAHAN (Sunnah - Proses Ekstra)
 
 ```mermaid
 flowchart TD
@@ -40,7 +42,8 @@ flowchart TD
     E2 --> F2[Tampilkan riwayat prediksi
     di GUI Web]
 ```
- 3. Keterangan Tambahan
+
+## 3. Keterangan Tambahan
 - Proses **imbalance handling** dilakukan lewat `class_weight` pada saat training (lihat `notebooks/features.py`).
 - Proses **database** dipakai untuk menyimpan histori setiap prediksi yang dilakukan lewat GUI (lihat `backend/app/core/database.py`).
 - Ekstraksi fitur lanjutan (PCA/Chi-Square) bisa ditambahkan sebagai eksperimen tambahan jika ingin membandingkan representasi TF-IDF vs Embedding.
