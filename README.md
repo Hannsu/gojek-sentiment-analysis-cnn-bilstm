@@ -3,7 +3,26 @@
 Proyek klasifikasi sentimen ulasan aplikasi Gojek, mengembangkan referensi
 jurnal CNN-only dengan menambahkan Model 2: **Hybrid CNN-BiLSTM**.
 
-## Cara Menjalankan
+## Cara Menggunakan
+
+Aplikasi sudah tersedia dalam bentuk `.apk` dan backend sudah di-deploy,
+sehingga tidak perlu setup manual untuk mencoba aplikasinya.
+
+1. Install `GojekReviewClassifier.apk` pada perangkat Android.
+2. Buka aplikasi, tulis ulasan tentang Gojek pada kolom input.
+3. Tekan "Analisis Sentimen" untuk melihat hasil klasifikasi beserta
+   distribusi probabilitas tiap kelas.
+4. Riwayat analisis dapat dilihat pada halaman "Riwayat Analisis".
+
+
+
+
+
+
+## Reproduksi Training Model (opsional)
+
+Bagian ini hanya diperlukan jika ingin melatih ulang model dari nol,
+bukan untuk menjalankan aplikasi.
 
 ### 1. Setup environment
 ```bash
@@ -22,16 +41,6 @@ python3 train_and_evaluate.py
 ```
 Hasil: model terbaik otomatis tersimpan di folder `models/`.
 
-### 4. Jalankan backend API
-```bash
-cd backend
-uvicorn app.main:app --reload --port 8000
-```
-Dokumentasi API: http://localhost:8000/docs
-
-### 5. Jalankan Aplikasi Mobile
-Install `GojekReviewClassifier.apk` pada perangkat Android, atau build ulang dari source Flutter dan sesuaikan base URL backend pada konfigurasi service.
-
 ## Fitur
 - Preprocessing teks Bahasa Indonesia (Sastrawi: stemming + stopword removal)
 - Data splitting stratified (train/val/test)
@@ -39,12 +48,11 @@ Install `GojekReviewClassifier.apk` pada perangkat Android, atau build ulang dar
 - Evaluasi lengkap: Accuracy, Precision, Recall, F1-score, Confusion Matrix
 - Pemilihan model terbaik otomatis
 - Imbalance handling (class weighting)
-- Backend REST API (FastAPI) dengan database SQLite untuk histori prediksi
-- Aplikasi mobile (Flutter) untuk analisis sentimen secara real-time
-- Siap deploy ke platform hosting (Procfile disediakan)
+- Aplikasi mobile (Flutter) untuk analisis sentimen secara real-time, terhubung
+  ke backend REST API (FastAPI) yang sudah di-deploy
 
 ## Struktur Proyek
-- `backend/` — REST API (FastAPI), preprocessing, model service, dan database
+- `backend/` — REST API (FastAPI), preprocessing, model service, dan database (sudah di-deploy)
 - `data/` — dataset mentah dan hasil pembagian data (train/val/test)
 - `hasil/` — hasil evaluasi model (grafik training, confusion matrix, ringkasan performa)
 - `models/` — model terlatih beserta tokenizer dan label encoder
