@@ -1,0 +1,462 @@
+This file is a merged representation of the entire codebase, combined into a single document by Repomix.
+
+<file_summary>
+This section contains a summary of this file.
+
+<purpose>
+This file contains a packed representation of the entire repository's contents.
+It is designed to be easily consumable by AI systems for analysis, code review,
+or other automated processes.
+</purpose>
+
+<file_format>
+The content is organized as follows:
+1. This summary section
+2. Repository information
+3. Directory structure
+4. Repository files (if enabled)
+5. Multiple file entries, each consisting of:
+  - File path as an attribute
+  - Full contents of the file
+</file_format>
+
+<usage_guidelines>
+- This file should be treated as read-only. Any changes should be made to the
+  original repository files, not this packed version.
+- When processing this file, use the file path to distinguish
+  between different files in the repository.
+- Be aware that this file may contain sensitive information. Handle it with
+  the same level of security as you would the original repository.
+</usage_guidelines>
+
+<notes>
+- Some files may have been excluded based on .gitignore rules and Repomix's configuration
+- Binary files are not included in this packed representation. Please refer to the Repository Structure section for a complete list of file paths, including binary files
+- Files matching patterns in .gitignore are excluded
+- Files matching default ignore patterns are excluded
+- Files are sorted by Git change count (files with more changes are at the bottom)
+</notes>
+
+</file_summary>
+
+<directory_structure>
+.gitignore
+app/__init__.py
+app/core/__init__.py
+app/core/database.py
+app/database.py
+app/main.py
+app/model_service.py
+app/models/__init__.py
+app/models/schemas.py
+app/preprocessing.py
+app/routers/__init__.py
+app/routers/sentiment_router.py
+app/services/__init__.py
+app/services/predict_service.py
+models/best_model.keras
+models/label_encoder.pkl
+models/model_info.json
+models/tokenizer.pkl
+Procfile
+requirements.txt
+runtime.txt
+</directory_structure>
+
+<files>
+This section contains the contents of the repository's files.
+
+<file path=".gitignore">
+venv/
+__pycache__/
+*.pyc
+history.db
+</file>
+
+<file path="app/__init__.py">
+
+</file>
+
+<file path="app/core/__init__.py">
+
+</file>
+
+<file path="app/core/database.py">
+import sqlite3
+import os
+from datetime import datetime
+
+DB_PATH = os.path.join(os.path.dirname(__file__), "..", "..", "history.db")
+
+
+def init_db():
+    conn = sqlite3.connect(DB_PATH)
+    conn.execute("""
+        CREATE TABLE IF NOT EXISTS prediction_history (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            original_text TEXT,
+            predicted_label TEXT,
+            confidence REAL,
+            created_at TEXT
+        )
+    """)
+    conn.commit()
+    conn.close()
+
+
+def save_history(original_text: str, predicted_label: str, confidence: float):
+    conn = sqlite3.connect(DB_PATH)
+    conn.execute(
+        "INSERT INTO prediction_history (original_text, predicted_label, confidence, created_at) VALUES (?, ?, ?, ?)",
+        (original_text, predicted_label, confidence, datetime.now().isoformat()),
+    )
+    conn.commit()
+    conn.close()
+
+
+def get_history(limit: int = 20):
+    conn = sqlite3.connect(DB_PATH)
+    conn.row_factory = sqlite3.Row
+    rows = conn.execute(
+        "SELECT * FROM prediction_history ORDER BY id DESC LIMIT ?", (limit,)
+    ).fetchall()
+    conn.close()
+    return [dict(r) for r in rows]
+</file>
+
+<file path="app/database.py">
+import sqlite3
+import os
+from datetime import datetime, timezone
+
+DB_PATH = os.path.join(os.path.dirname(__file__), "..", "..", "history.db")
+
+
+def init_db():
+    conn = sqlite3.connect(DB_PATH)
+    conn.execute("""
+        CREATE TABLE IF NOT EXISTS prediction_history (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            original_text TEXT,
+            predicted_label TEXT,
+            confidence REAL,
+            created_at TEXT
+        )
+    """)
+    conn.commit()
+    conn.close()
+
+
+def save_history(original_text: str, predicted_label: str, confidence: float):
+    conn = sqlite3.connect(DB_PATH)
+    created_at = datetime.now(timezone.utc).isoformat().replace("+00:00", "Z")
+    conn.execute(
+        "INSERT INTO prediction_history (original_text, predicted_label, confidence, created_at) VALUES (?, ?, ?, ?)",
+        (original_text, predicted_label, confidence, created_at),
+    )
+    conn.commit()
+    conn.close()
+
+
+def get_history(limit: int = 20):
+    conn = sqlite3.connect(DB_PATH)
+    conn.row_factory = sqlite3.Row
+    rows = conn.execute(
+        "SELECT * FROM prediction_history ORDER BY id DESC LIMIT ?", (limit,)
+    ).fetchall()
+    conn.close()
+    return [dict(r) for r in rows]
+</file>
+
+<file path="app/main.py">
+"""
+BACKEND FASTAPI - Analisis Sentimen Ulasan Gojek
+Menyajikan model terbaik (Model2_CNN_BiLSTM_Hybrid) hasil train_and_evaluate.py
+ke aplikasi mobile Flutter.
+"""
+from fastapi import FastAPI, HTTPException
+from fastapi.middleware.cors import CORSMiddleware
+from pydantic import BaseModel
+
+from .model_service import sentiment_model
+from . import database
+
+app = FastAPI(title="Gojek Sentiment Analysis API")
+
+# CORS dibuka agar bisa diakses dari emulator/HP fisik/web tanpa hambatan.
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
+
+class PredictRequest(BaseModel):
+    text: str
+
+
+@app.on_event("startup")
+def on_startup():
+    database.init_db()
+
+
+@app.get("/")
+def root():
+    return {
+        "status": "ok",
+        "model": sentiment_model.model_name,
+        "classes": sentiment_model.class_names,
+    }
+
+
+@app.post("/api/sentiment/predict")
+def predict(req: PredictRequest):
+    text = (req.text or "").strip()
+    if not text:
+        raise HTTPException(status_code=400, detail="Teks tidak boleh kosong")
+
+    result = sentiment_model.predict(text)
+
+    database.save_history(
+        original_text=result["original_text"],
+        predicted_label=result["predicted_label"],
+        confidence=result["confidence"],
+    )
+
+    return result
+
+
+@app.get("/api/sentiment/history")
+def history(limit: int = 20):
+    return database.get_history(limit=limit)
+</file>
+
+<file path="app/model_service.py">
+"""
+MODEL SERVICE
+Load model + tokenizer + label encoder sekali saat startup (bukan per-request),
+supaya prediksi cepat. Menggunakan Model2_CNN_BiLSTM_Hybrid (model terbaik
+berdasarkan f1-score, lihat model_info.json).
+"""
+import os
+import json
+import pickle
+
+import numpy as np
+import tensorflow as tf
+from tensorflow.keras.preprocessing.sequence import pad_sequences
+
+from .preprocessing import preprocess_text
+
+MODEL_DIR = os.path.join(os.path.dirname(__file__), "..", "models")
+
+
+class SentimentModel:
+    def __init__(self):
+        with open(os.path.join(MODEL_DIR, "model_info.json")) as f:
+            info = json.load(f)
+        self.model_name = info["best_model"]
+        self.max_len = info["max_len"]
+
+        self.model = tf.keras.models.load_model(
+            os.path.join(MODEL_DIR, "best_model.keras")
+        )
+        with open(os.path.join(MODEL_DIR, "tokenizer.pkl"), "rb") as f:
+            self.tokenizer = pickle.load(f)
+        with open(os.path.join(MODEL_DIR, "label_encoder.pkl"), "rb") as f:
+            self.label_encoder = pickle.load(f)
+
+        self.class_names = list(self.label_encoder.classes_)
+
+        # warm-up: hindari cold-start lambat di request pertama
+        self._predict_raw("aplikasi bagus")
+
+    def _predict_raw(self, clean_text: str):
+        seq = self.tokenizer.texts_to_sequences([clean_text])
+        padded = pad_sequences(seq, maxlen=self.max_len, padding="post", truncating="post")
+        probs = self.model.predict(padded, verbose=0)[0]
+        return probs
+
+    def predict(self, original_text: str) -> dict:
+        clean = preprocess_text(original_text)
+        probs = self._predict_raw(clean)
+
+        predicted_idx = int(np.argmax(probs))
+        predicted_label = self.class_names[predicted_idx]
+        confidence = float(probs[predicted_idx])
+        probabilities = {name: float(p) for name, p in zip(self.class_names, probs)}
+
+        return {
+            "original_text": original_text,
+            "clean_text": clean,
+            "predicted_label": predicted_label,
+            "confidence": confidence,
+            "probabilities": probabilities,
+        }
+
+
+# instance singleton, di-load sekali saat modul pertama kali diimport
+sentiment_model = SentimentModel()
+</file>
+
+<file path="app/models/__init__.py">
+
+</file>
+
+<file path="app/models/schemas.py">
+from pydantic import BaseModel
+from typing import Dict
+
+
+class ReviewRequest(BaseModel):
+    text: str
+
+
+class PredictionResponse(BaseModel):
+    original_text: str
+    clean_text: str
+    predicted_label: str
+    confidence: float
+    probabilities: Dict[str, float]
+</file>
+
+<file path="app/preprocessing.py">
+"""
+PREPROCESSING PIPELINE (inference)
+Replikasi PERSIS dari preprocessing.py yang dipakai saat training,
+supaya teks baru dari user diproses dengan cara yang sama persis
+sebelum masuk ke model.
+"""
+import re
+from Sastrawi.Stemmer.StemmerFactory import StemmerFactory
+from Sastrawi.StopWordRemover.StopWordRemoverFactory import StopWordRemoverFactory
+
+stemmer = StemmerFactory().create_stemmer()
+stopword_remover = StopWordRemoverFactory().create_stop_word_remover()
+
+
+def clean_text(text: str) -> str:
+    text = str(text).lower()                                  # case folding
+    text = re.sub(r"http\S+|www\S+", " ", text)                # hapus URL
+    text = re.sub(r"[^a-zA-Z\s]", " ", text)                   # hapus angka & simbol
+    text = re.sub(r"\s+", " ", text).strip()                   # rapikan spasi
+    return text
+
+
+def preprocess_text(text: str) -> str:
+    text = clean_text(text)
+    text = stopword_remover.remove(text)                       # stopword removal
+    text = stemmer.stem(text)                                  # stemming
+    return text
+</file>
+
+<file path="app/routers/__init__.py">
+
+</file>
+
+<file path="app/routers/sentiment_router.py">
+from fastapi import APIRouter, HTTPException
+from app.models.schemas import ReviewRequest, PredictionResponse
+from app.services.predict_service import predict_sentiment
+from app.core.database import save_history, get_history
+
+router = APIRouter(prefix="/api/sentiment", tags=["Sentiment"])
+
+
+@router.post("/predict", response_model=PredictionResponse)
+def predict(request: ReviewRequest):
+    if not request.text or not request.text.strip():
+        raise HTTPException(status_code=400, detail="Teks review tidak boleh kosong")
+    result = predict_sentiment(request.text)
+    save_history(result["original_text"], result["predicted_label"], result["confidence"])
+    return result
+
+
+@router.get("/history")
+def history(limit: int = 20):
+    return get_history(limit)
+</file>
+
+<file path="app/services/__init__.py">
+
+</file>
+
+<file path="app/services/predict_service.py">
+import os
+import json
+import pickle
+import sys
+import numpy as np
+from tensorflow.keras.models import load_model
+from tensorflow.keras.preprocessing.sequence import pad_sequences
+
+BASE_DIR = os.path.join(os.path.dirname(__file__), "..", "..", "..")
+MODEL_DIR = os.path.join(BASE_DIR, "models")
+sys.path.append(os.path.join(BASE_DIR, "notebooks"))
+from preprocessing import preprocess_text  # reuse fungsi cleaning+stopword+stemming
+
+_model = None
+_tokenizer = None
+_label_encoder = None
+_max_len = 40
+
+
+def load_artifacts():
+    global _model, _tokenizer, _label_encoder, _max_len
+    if _model is None:
+        _model = load_model(os.path.join(MODEL_DIR, "best_model.keras"))
+        with open(os.path.join(MODEL_DIR, "tokenizer.pkl"), "rb") as f:
+            _tokenizer = pickle.load(f)
+        with open(os.path.join(MODEL_DIR, "label_encoder.pkl"), "rb") as f:
+            _label_encoder = pickle.load(f)
+        with open(os.path.join(MODEL_DIR, "model_info.json")) as f:
+            info = json.load(f)
+            _max_len = info.get("max_len", 40)
+    return _model, _tokenizer, _label_encoder
+
+
+def predict_sentiment(text: str):
+    model, tokenizer, le = load_artifacts()
+    clean = preprocess_text(text)
+    seq = tokenizer.texts_to_sequences([clean])
+    padded = pad_sequences(seq, maxlen=_max_len, padding="post", truncating="post")
+    probs = model.predict(padded, verbose=0)[0]
+    pred_idx = int(np.argmax(probs))
+    label = le.inverse_transform([pred_idx])[0]
+    confidence = float(probs[pred_idx])
+    return {
+        "original_text": text,
+        "clean_text": clean,
+        "predicted_label": label,
+        "confidence": round(confidence, 4),
+        "probabilities": {cls: round(float(p), 4) for cls, p in zip(le.classes_, probs)},
+    }
+</file>
+
+<file path="models/model_info.json">
+{
+  "best_model": "Model2_CNN_BiLSTM_Hybrid",
+  "max_len": 40
+}
+</file>
+
+<file path="Procfile">
+web: uvicorn app.main:app --host 0.0.0.0 --port $PORT
+</file>
+
+<file path="requirements.txt">
+fastapi
+uvicorn[standard]
+tensorflow-cpu
+scikit-learn
+Sastrawi
+numpy
+pandas
+</file>
+
+<file path="runtime.txt">
+python-3.12.4
+</file>
+
+</files>

@@ -1,0 +1,29 @@
+name: gojek_sentiment_app
+description: "Aplikasi Analisis Sentimen Ulasan Gojek berbasis Flutter"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+
+  # Untuk konsumsi REST API (Materi 13: Akses Data - REST API)
+  http: ^1.2.1
+
+  # Untuk State Management (Materi 12: State Management Dasar)
+  provider: ^6.1.2
+
+  # Untuk format tanggal pada riwayat prediksi
+  intl: ^0.19.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
